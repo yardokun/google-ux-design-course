@@ -81,3 +81,24 @@ UX engineers answer questions like: How do we implement each interaction? How do
 UX program managers: Ensure clear and timely communication so that the process of building a useful product moves smoothly from start to finish. This might include setting up goals and writing project plans.
 UX program managers answer questions like: What are the overall goals for this project, and what’s the plan to achieve them? And, how can we create and improve processes within the team? UX program managers work across departments to make sure that UX is involved throughout a project lifecycle.
 
+## UX tools — an overview  
+
+Sketch, Freehand, and Zeplin
+
+- Work well with very large teams that may struggle to adopt new tools¨
+- Paired most commonly with another of these tools
+- Do not require WiFi, enabling offline design work
+- Do not afford real-time collaboration, prototyping, or design to development collaborative activities
+
+Adobe XD
+
+- Works well with teams that already use Adobe’s Suite
+- Rounds out Adobe’s suite of products with one that is entirely built for digital and UX design work
+- Syncs to Cloud rather than using actual real-time collaboration and can be used offline
+
+Figma
+
+- Is excellent for most designers and contexts
+- Includes FigJam access, a whiteboard for brainstorming, diagramming, and strategizing
+- Requires WiFi connection
+- Is a digital-first, remote-friendly, all-in-one tool, allowing for easier sharing, designing, collaboration, and reviewing in our ever-changing, more virtual workspace 
