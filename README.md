@@ -116,3 +116,5 @@ There are five stages in the product development lifecycle:
 - **Launch:** Sharing a finished version of the product with the public.
 
 <img src="src/images/prod-dev-life-cycle.png" width="100">
+
+![Image Alt text](/images/prod-dev-life-cycle.png
