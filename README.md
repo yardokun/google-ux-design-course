@@ -81,7 +81,7 @@ UX engineers answer questions like: How do we implement each interaction? How do
 **UX program managers:** Ensure clear and timely communication so that the process of building a useful product moves smoothly from start to finish. This might include setting up goals and writing project plans.
 UX program managers answer questions like: What are the overall goals for this project, and what’s the plan to achieve them? And, how can we create and improve processes within the team? UX program managers work across departments to make sure that UX is involved throughout a project lifecycle.
 
-## UX tools — an overview  
+## Most common UX tools 
 
 Sketch, Freehand, and Zeplin
 
@@ -101,4 +101,16 @@ Figma
 - Is excellent for most designers and contexts
 - Includes FigJam access, a whiteboard for brainstorming, diagramming, and strategizing
 - Requires WiFi connection
-- Is a digital-first, remote-friendly, all-in-one tool, allowing for easier sharing, designing, collaboration, and reviewing in our ever-changing, more virtual workspace 
+- Is a digital-first, remote-friendly, all-in-one tool, allowing for easier sharing, designing, collaboration, and reviewing in our ever-changing, more virtual workspace
+
+## The product development life cycle
+
+**Product development lifecycle:** The process used to take a product from an idea to reality.
+
+There are five stages in the product development lifecycle:
+
+- **Brainstorm:** An active discovery stage that's all about generating ideas about the user and potential needs or challenges the user might have.
+- **Define:** Using the insights from the brainstorm stage and starting to narrow the focus.
+- **Design:** Implementing insights into new designs using various tools.
+- **Test:** Evaluating the product design based on the feedback of potential users.
+- **Launch:** Sharing a finished version of the product with the public.
