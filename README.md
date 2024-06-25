@@ -114,3 +114,5 @@ There are five stages in the product development lifecycle:
 - **Design:** Implementing insights into new designs using various tools.
 - **Test:** Evaluating the product design based on the feedback of potential users.
 - **Launch:** Sharing a finished version of the product with the public.
+
+<img src="src/assets/graphics/pokemonPlaceholder.png" width="100">
