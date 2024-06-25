@@ -119,7 +119,7 @@ There are five stages in the product development lifecycle:
 
 ## Identify good user experience
 
-<img src="images/foodie-land.png" width="400">
+<img src="images/foodie-land.png" width="500">
 
 **Usable**
 
