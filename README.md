@@ -116,3 +116,27 @@ There are five stages in the product development lifecycle:
 - **Launch:** Sharing a finished version of the product with the public.
 
 <img src="images/prod-dev-life-cycle.png" width="400">
+
+## Identify good user experience
+
+<img src="images/foodie-land.png" width="400">
+
+**Usable**
+
+The “Add to cart,” “Back to browse,” and “Checkout” buttons in the Foodieland app are examples of usable design because they clearly indicate what will happen next when users interact with them.
+
+**Equitable**
+
+The Foodieland app’s translation feature is an example of equitable design because it is helpful for people who speak different languages.
+
+**Enjoyable**
+
+The images used in the Foodieland app are examples of enjoyable design because they are visually appealing and help users understand what they’re ordering.
+
+**Useful**
+
+The Foodieland app’s filter feature allows users to narrow down their search. This is an example of useful design because it helps users easily select a pizza to order.
+
+**Going forward**
+
+As you continue on your UX design journey, ensure that your designs employ these four characteristics of good UX design.
