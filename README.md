@@ -4,17 +4,17 @@
 
 ## What is Your Career Identity | Google Career Certificates
 
-Strengths: What skills, knowledge and talents set me apart?
+**Strengths:** What skills, knowledge and talents set me apart?
 
-Answer: I'm creative, self-evaluative and empathetic.
+**Answer:** I'm creative, self-evaluative and empathetic.
 
-Motivations: What fuels and motivates me most?
+**Motivations:** What fuels and motivates me most?
 
-Answer: I'm motivated by creating user-friendly solutions that everyone can understand, as I find it frustrating when poor design prevents people from knowing what to do and how to do it.
+**Answer:** I'm motivated by creating user-friendly solutions that everyone can understand, as I find it frustrating when poor design prevents people from knowing what to do and how to do it.
 
-Values: What values guide me?
+**Values:** What values guide me?
 
-Answer: Some of my core values are usability, clarity and accessibility.
+**Answer:** Some of my core values are usability, clarity and accessibility.
 
 My career identity statement:
 
