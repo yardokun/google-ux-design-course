@@ -115,4 +115,4 @@ There are five stages in the product development lifecycle:
 - **Test:** Evaluating the product design based on the feedback of potential users.
 - **Launch:** Sharing a finished version of the product with the public.
 
-![Image Product development life cycle model](/images/prod-dev-life-cycle.png "Product development life cycle"))
+![Image Product development life cycle model](/images/prod-dev-life-cycle.png "Product development life cycle") width="100")
