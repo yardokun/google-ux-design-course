@@ -153,7 +153,7 @@ The purpose of wireframes and prototypes is to figure out the best design for a 
 
 **Information architecture:** The framework of a website or how it's organized, categorized, and structured. For example, when you click the file menu on a word processing application like Google Docs, you expect certain options like new or print to appear in the drop down menu. Or when you click on the company's homepage, you expect to find a link to an about page. That structure is the website's information architecture.
 
-**Communicate effectively:** Like meetings with colleagues, writing emails, creating proposals, or pitching clients.
+**Communicate effectively:** Like meetings with colleagues, writing emails, creating proposals, or pitching clients. UX design is a very collaborative field, so being able to communicate both digitally and face-to-face with teammates is important. You need to be a good listener, be receptive to feedback, and share your ideas in a clear way.
 
 So in short, entry level UX designers should know how to research, wireframe, prototype, create information architecture, and communicate effectively. Your exact responsibilities will vary depending on where you work and how specialized you need to be for your particular job.
 
