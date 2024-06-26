@@ -170,8 +170,14 @@ So in short, entry level UX designers should know how to research, wireframe, pr
 - Information architecture
 - Usability testing
 
+<img src="images/generalist-designer.png" width="500">
+
 **Specialist:** Dives deep into one particular UX design role, like interaction, visual, or motion design. While a generalist has a breadth of knowledge, a specialist has more depth of knowledge in one kind of UX design. Specialists usually work at large companies where the organization can afford to have a big team of UX designers.
 
+<img src="images/specialist-designer.png" width="500">
+
 **T-shaped designer:** Specializes in one kind of UX design and has a breadth of knowledge in other areas. This is called a T-shaped designer because your skills look like an uppercase T. The vertical line of the T is the kind of UX design you specialize in, like visual design. The horizontal line across the top of the T includes your complementary skills. These skills might come from other fields, like interaction design, that cross over with your specialties or soft skills that help you work more effectively.
+
+<img src="images/t-shaped-designer.png" width="500">
 
 Becoming a specialist or generalist isn't always a conscious choice. It might be based entirely on where you work and what skills are needed.
