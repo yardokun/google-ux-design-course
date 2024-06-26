@@ -156,3 +156,22 @@ The purpose of wireframes and prototypes is to figure out the best design for a 
 **Communicate effectively:** Like meetings with colleagues, writing emails, creating proposals, or pitching clients.
 
 So in short, entry level UX designers should know how to research, wireframe, prototype, create information architecture, and communicate effectively. Your exact responsibilities will vary depending on where you work and how specialized you need to be for your particular job.
+
+## Specialists., generalists, and T-shaped designers
+
+**Generalist:** A UX designer with a broad number of responsibilities. Generalist UX designers are common at smaller companies with fewer employees, as these companies don't have big design departments. You might have to wear many hats. A generalist might be responsible for a combination of:
+- User research
+- Branding
+- User flows
+- UX writing
+- Visual design
+- Prototyping
+- Production design
+- Information architecture
+- Usability testing
+
+**Specialist:** Dives deep into one particular UX design role, like interaction, visual, or motion design. While a generalist has a breadth of knowledge, a specialist has more depth of knowledge in one kind of UX design. Specialists usually work at large companies where the organization can afford to have a big team of UX designers.
+
+**T-shaped designer:** Specializes in one kind of UX design and has a breadth of knowledge in other areas. This is called a T-shaped designer because your skills look like an uppercase T. The vertical line of the T is the kind of UX design you specialize in, like visual design. The horizontal line across the top of the T includes your complementary skills. These skills might come from other fields, like interaction design, that cross over with your specialties or soft skills that help you work more effectively.
+
+Becoming a specialist or generalist isn't always a conscious choice. It might be based entirely on where you work and what skills are needed.
