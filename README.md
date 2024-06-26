@@ -288,3 +288,13 @@ Disadvantages:
 - **Stability:** Less stable than working for a company or agency, since work is not always guaranteed.
 - **Business:** Manage the logistics of your own business, such as filing taxes, billing clients, and more.
 - **Mentorship:** Lack of readily available mentors since you’re working by yourself.
+
+## Pursue a career in UX design
+
+**Internship:** A short-term job with limited responsibility. You often work closely with a supervisor to learn more about a job or industry that you are interning in. It's a fantastic way to get real job experience. Plus an internship might lead to a full-time job in the future.
+
+**Apprenticeships:** Provide on-the-job training to help you develop real skills. Apprenticeships are similar to internships, because you work closely with an experienced professional. However, apprenticeships generally last longer than internships: around one or two years instead of a few months. And apprenticeships are always paid.
+
+**Freelancers:** Freelancers work for themselves and market their services to businesses to find customers. Working as a freelancer can help you gain experience on real UX design projects. A good way to get started as a freelancer is to offer your services to a small business or a nonprofit in exchange for a good recommendation and a project to include in your portfolio. Once you have a couple of projects under your belt and some references, you can begin charging customers.
+
+**Entry-level jobs:** Roles that do not require prior experience in the field.
