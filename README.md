@@ -178,6 +178,6 @@ So in short, entry level UX designers should know how to research, wireframe, pr
 
 **T-shaped designer:** Specializes in one kind of UX design and has a breadth of knowledge in other areas. This is called a T-shaped designer because your skills look like an uppercase T. The vertical line of the T is the kind of UX design you specialize in, like visual design. The horizontal line across the top of the T includes your complementary skills. These skills might come from other fields, like interaction design, that cross over with your specialties or soft skills that help you work more effectively.
 
-<img src="images/t-shaped-designer.png" width="300">
+<img src="images/t-shaped-designer.png" width="400">
 
 Becoming a specialist or generalist isn't always a conscious choice. It might be based entirely on where you work and what skills are needed.
