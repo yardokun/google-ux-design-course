@@ -140,3 +140,17 @@ The Foodieland app’s filter feature allows users to narrow down their search. 
 **Going forward**
 
 As you continue on your UX design journey, ensure that your designs employ these four characteristics of good UX design.
+
+## Job responsibilities of entry-level UX designers
+
+**Research:** Understand audiences and learn about their backgrounds, demographics, like age and location, motivations, pain points, emotions, and life goals. There's a lot to learn about users and their preferences, and UX designers want to discover as much as they can in order to inform their product's design.
+
+**Wireframe:** An outline or a sketch of a product or a screen. It helps a designer figure out how a page is arranged, where each piece of a product fits in with the others, and how users will likely interact with the product. Wireframing is one of the first steps designers take when building a new product or feature. It's done after or at the same time as the research. We can wireframe by drawing on paper or digitally on a computer.
+
+**Prototype:** An early model of a product that demonstrates functionality like a wireframe, but a lot more advanced. While a wireframe gives you a general idea of where things go and how the product will function, a prototype illustrates a progression from one screen to the next. We can draw prototypes on paper, create a physical prototype, or build a digital prototype.
+
+The purpose of wireframes and prototypes is to figure out the best design for a product, inexpensively and quickly.
+
+**Information architecture:** The framework of a website or how it's organized, categorized, and structured. For example, when you click the file menu on a word processing application like Google Docs, you expect certain options like new or print to appear in the drop down menu. Or when you click on the company's homepage, you expect to find a link to an about page. That structure is the website's information architecture.
+
+Finally, an entry level UX design job, like many jobs, also requires a lot of communication, like meetings with colleagues, writing emails, creating proposals, or pitching clients. So in short, entry level UX designers should know how to research, wireframe, prototype, create information architecture, and communicate effectively. Your exact responsibilities will vary depending on where you work and how specialized you need to be for your particular job.
