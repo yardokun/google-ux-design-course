@@ -159,6 +159,8 @@ So in short, entry level UX designers should know how to research, wireframe, pr
 
 ## Specialists., generalists, and T-shaped designers
 
+<img src="images/specialist-generalist-t-shaped.png" width="500">
+
 **Generalist:** A UX designer with a broad number of responsibilities. Generalist UX designers are common at smaller companies with fewer employees, as these companies don't have big design departments. You might have to wear many hats. A generalist might be responsible for a combination of:
 - User research
 - Branding
