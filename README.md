@@ -318,10 +318,77 @@ Disadvantages:
 
 **Accessibility:** The design of products, devices, services, or environments for people with disabilities.
 
-**Equity-focused design:** Designing for groups that have been historically underrepresented or ignored when building products.
+**Equity-focused design:** Designing for groups that have been historically underrepresented or ignored when building products. Thinking through all the aspects of a design product and making sure the product is both accessible and fair to all genders, races, and abilities. Plus, the designs need to specifically consider underrepresented and excluded groups.
 
 Equality means providing the same amount of opportunity and support to all segments of society. In other words, everyone gets the same thing.
 
 Equity means providing different levels of opportunity and support for each person in order to achieve fair outcomes.
 
 <img src="images/equality-vs-equity-illustration.png" width="400">
+
+**Platform:** The medium that users experience your product on.
+
+Some common platforms are:
+
+- Desktop computers
+- Laptop computers
+- Mobile phones
+- Tablets
+- Wearables, like smart watches
+- TVs
+- Smart displays
+
+**Brand identity:** The visual appearance and voice of a company. For example, Google Search should look and feel the same on your desktop computer and mobile phone.
+
+**Responsive web design:** Allows a website to change automatically, depending on the size of the device.
+
+Users behave differently depending on their device.
+
+Key considerations when designing for different platforms:
+
+- Screen size
+
+Adjusting design elements and features to fit different screen sizes. For example, you have a lot of screen space when you design for desktop and laptop computers. But when you design for smaller screens, like mobile phones, you have to carefully decide which parts of the design you'll prioritize including in the limited space. This means making every word, icon, and image count!
+
+- Interaction
+
+Consider the way users interact with each platform and how those interactions might affect your design decisions. It’s also critical to consider accessibility when developing your designs at each point. Different groups of people will interact with your product in different ways, like using a screen reader, closed captioning, or a switch device.
+
+- Content layout
+
+In the world of UX design, layouts refer to the way that information is organized on the screen. For example, when designing for desktop or laptop computers, you have the advantage of working with a familiar, standardized size: landscape (horizontal) mode. The screen is wide, content can be laid out in columns, and there’s much more flexibility to design. 
+
+In contrast, mobile phone content is usually laid out in portrait (vertical) mode, which is ideal for scrolling. In addition, mobile phones often allow users the option to use landscape (horizontal) mode by rotating their device. Implementing this in your designs requires more work from you as a designer, but provides users with a wider range of options.
+
+Consider the layout of content on a couple more platforms: tablets combine both the desktop and mobile phone user experience, which means you can incorporate aspects of desktop and mobile phone content layouts in your designs. Smartwatches tend to have compact square or rectangular screens, offering very little digital real estate to lay out content.
+
+- Functionality
+
+There are a lot of reasons why users might choose one platform over another, but functionality and the kind of tasks they want to complete is a huge driver. Your designs for each platform will likely vary based on how and when you expect users to need the product.
+
+## Get to know the user
+
+**User-centered design:** Puts the user front-and-center.
+
+Focusing on the user means considering their story, emotions, and the insights you've gathered about them.
+
+To keep our focus on the user, the user-centered design process has four steps:
+
+- Understand
+- Specify
+- Design
+- Evaluate
+
+<img src="images/user-centered-design-four-steps.png" width="400">
+
+Following this framework helps us build products people actually want to use.
+
+First, **understand** how the user experiences the product or similar products. Really understanding the end user requires a lot of research.
+
+Next, **specify** the end user's needs. Based on your research, you'll narrow down which end-user problem is the most important to solve.
+
+Then, **design** solutions to the end user's problem. This is where you'll come up with ideas for what the product might look like and actually start building the product.
+
+Finally, **evaluate** your design against your end user's needs. Does your design solve the end user's problem?
+
+**Iteration:** Doing something again, by building on previous versions and making tweaks.
