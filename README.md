@@ -316,6 +316,8 @@ Disadvantages:
 - Age
 - Gender
 
+**Digital Literacy:** A user's level of ability related to using digital information and technologies.
+
 **Accessibility:** The design of products, devices, services, or environments for people with disabilities.
 
 **Equity-focused design:** Designing for groups that have been historically underrepresented or ignored when building products. Thinking through all the aspects of a design product and making sure the product is both accessible and fair to all genders, races, and abilities. Plus, the designs need to specifically consider underrepresented and excluded groups.
@@ -384,7 +386,7 @@ To reach as many users as possible, you’ll consider questions such as these as
 
 The goal for user research is to get the widest possible selection of potential users to include as research participants. Make sure to consider income level; demographic data such as age, gender, and ethnicity; educational background; and geographic location. 
 
-**User-centered design:** Puts the user front-and-center.
+**User-centered design:** Puts the user front-and-center. Trying to solve problems that people commonly experience rather than trying to solve only those problems that you experience personally.
 
 Focusing on the user means considering their story, emotions, and the insights you've gathered about them.
 
@@ -407,11 +409,13 @@ Then, **design** solutions to the end user's problem. This is where you'll come 
 
 Finally, **evaluate** your design against your end user's needs. Does your design solve the end user's problem?
 
+**Iterate:** Revise the original design to create a new and improved version.
+
 **Iteration:** Doing something again, by building on previous versions and making tweaks.
 
 **Assistive Technology (AT):** Any products, equipment, and systems that enhance learning, working, and daily living for people with disabilities.
 
-**Color modification:** (Like high contrast mode or dark mode on a device.) Increases the color contrast on a screen to make it easier to see for users with low vision or eye strain.
+**Color modification:** Features that increase the color contrast on a screen, like high contrast mode or dark mode, to make it easier to see for users with low vision or eye strain.
 
 **Voice control and switch devices:** Help people with limited dexterity and can serve as an alternative to a keyboard or mouse.
 
@@ -426,3 +430,9 @@ Finally, **evaluate** your design against your end user's needs. Does your desig
 You don't need to have a disability to benefit from assistive technology.
 
 **Speech to text** is a great example. With speech to text, a user composes text by speaking into their phone or computer. The voice recording is automatically converted into text. A lot of people find it much easier to text by talking to their device, because it offers a hands-free experience and reduces the amount of mental energy needed to type.
+
+Effective UX designers consider assistive technology throughout the design process, from understanding users’ experiences, to identifying users’ needs, to designing and testing solutions.
+
+# Module 3 — Joining design sprints
+
+## The UX Design Framework
