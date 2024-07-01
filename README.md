@@ -26,7 +26,9 @@ I am passionate about creating user-friendly solutions that everyone can underst
 
 Hi! I'm Yardenna from Norway. I just finished my 2-year education in frontend developement. However, my passion is working with user experience design. I've always loved viewing and creating art and design, and used to draw and paint a lot. When my brother became an interaction designer and introduced me to the field, I realised for the first time what I want to do for a living. I am passionate about creating user-friendly solutions that everyone can understand, as I find it frustrating when poor design prevents people from knowing what to do and how to do it, and I value usability, clarity and accessibility. Enrolling in this course is very exciting, as it allows me to finally start learning about UX design in depth.
 
-# Module 1 — Foundations of User Experience Design
+# Course 1 — Foundations of User Experience Design
+
+# Module 1 — Introducing user experience design
 
 ## The basics of user experience design
 
@@ -298,3 +300,28 @@ Disadvantages:
 **Freelancers:** Freelancers work for themselves and market their services to businesses to find customers. Working as a freelancer can help you gain experience on real UX design projects. A good way to get started as a freelancer is to offer your services to a small business or a nonprofit in exchange for a good recommendation and a project to include in your portfolio. Once you have a couple of projects under your belt and some references, you can begin charging customers.
 
 **Entry-level jobs:** Roles that do not require prior experience in the field.
+
+# Module 2 — Thinking like a UX designer
+
+## Get to know UX design best practices and trends
+
+**Universal design:** The process of creating one product for users with the widest range of abilities and in the widest range of situations.
+
+**Inclusive design:** Making design choises that take into account personal identifiers like:
+
+- Ability
+- Race
+- Economic status
+- Language
+- Age
+- Gender
+
+**Accessibility:** The design of products, devices, services, or environments for people with disabilities.
+
+**Equity-focused design:** Designing for groups that have been historically underrepresented or ignored when building products.
+
+Equality means providing the same amount of opportunity and support to all segments of society. In other words, everyone gets the same thing.
+
+Equity means providing different levels of opportunity and support for each person in order to achieve fair outcomes.
+
+<img src="images/equality-vs-equity-illustration" width="200">
