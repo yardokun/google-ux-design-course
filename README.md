@@ -324,4 +324,4 @@ Equality means providing the same amount of opportunity and support to all segme
 
 Equity means providing different levels of opportunity and support for each person in order to achieve fair outcomes.
 
-<img src="images/equality-vs-equity-illustration" width="200">
+<img src="images/equality-vs-equity-illustration.png" width="200">
