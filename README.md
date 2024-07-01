@@ -368,6 +368,22 @@ There are a lot of reasons why users might choose one platform over another, but
 
 ## Get to know the user
 
+**User:** A person who is trying to solve a problem and is looking for a product or service to help them solve it.
+
+**User experience:** The journey that the user takes with that product or service.
+
+As a UX designer, your goal is to keep the user at the center of every decision you make, and to do that, you need to get to know your user.
+
+To reach as many users as possible, you’ll consider questions such as these as part of your user research approach:
+
+- Do my users have impairments or disabilities to consider–whether temporary, situational, or permanent?
+- How familiar are my users with technology?
+- How are my users accessing the product or service?
+- Where and when are my users accessing the product or service?
+- Have I considered all my potential users?
+
+The goal for user research is to get the widest possible selection of potential users to include as research participants. Make sure to consider income level; demographic data such as age, gender, and ethnicity; educational background; and geographic location. 
+
 **User-centered design:** Puts the user front-and-center.
 
 Focusing on the user means considering their story, emotions, and the insights you've gathered about them.
@@ -392,3 +408,21 @@ Then, **design** solutions to the end user's problem. This is where you'll come 
 Finally, **evaluate** your design against your end user's needs. Does your design solve the end user's problem?
 
 **Iteration:** Doing something again, by building on previous versions and making tweaks.
+
+**Assistive Technology (AT):** Any products, equipment, and systems that enhance learning, working, and daily living for people with disabilities.
+
+**Color modification:** (Like high contrast mode or dark mode on a device.) Increases the color contrast on a screen to make it easier to see for users with low vision or eye strain.
+
+**Voice control and switch devices:** Help people with limited dexterity and can serve as an alternative to a keyboard or mouse.
+
+**Voice control:** Allows users to navigate and interact with the buttons and screens on their devices using only their voice.
+
+**Switch:** An assistive technology device that replaces the need to use a computer keyboard or a mouse.
+
+**Screen readers:** One of the most common assistive technologies for people with limited vision. The software works on mobile and web devices and reads out loud any on screen text. Screen readers also read any interactive elements, like buttons, along with non visible text, like the button names, and any alternative text for images.
+
+**Alternative text (alt text):** Helps translate a visual user interface into a text-based user interface. Essentially uses words to describe any meaningful image for someone who isn't able to see the image. Super helpful for those with low bandwidth connections, too. If your device is unable to maintain a connection to the internet, it may struggle to load a big file or image. Alt text is useful for context when an image fails to load.
+
+You don't need to have a disability to benefit from assistive technology.
+
+**Speech to text** is a great example. With speech to text, a user composes text by speaking into their phone or computer. The voice recording is automatically converted into text. A lot of people find it much easier to text by talking to their device, because it offers a hands-free experience and reduces the amount of mental energy needed to type.
