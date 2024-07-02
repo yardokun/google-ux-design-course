@@ -455,6 +455,113 @@ Though it may sound like a linear process, the design thinking framework should 
 
 **Empathize**
 
-During the empathize phase, your primary goal is to learn more about the user and their problems, wants, and needs, and the environment or context in which they’ll experience your design. The most important part of the empathize phase is to step away from your assumptions and guesses and let your research findings inform your decision-making in later design phases.
+During the **empathize** phase, your primary goal is to learn more about the user and their problems, wants, and needs, and the environment or context in which they’ll experience your design. The most important part of the empathize phase is to step away from your assumptions and guesses and let your research findings inform your decision-making in later design phases.
 
 Your user research might include user surveys, interviews, and observation sessions, and you might also need to conduct some research on the competitors’ products to determine how your user frames competitors’ products as part of their daily life and daily problem-solving.
+
+**Define**
+
+In the **define** phase, you’ll analyze your research findings from the empathize phase and determine which user problems are the most important ones to solve, and why. This will drive you toward a clear goal for the design of the product.
+
+The most important outcome of this phase is a clear problem statement, which is a description of the user’s need that your designs will address. You might also develop a value proposition, which is a summary of why your user would or should use the product or service that you’re designing.
+
+**Ideate**
+
+After you land on a user problem and establish why it’s an important one to solve, it’s time for the **ideate** phase. The goal of ideation is to come up with as many design solutions as possible—don’t settle for your first solution because the most obvious solution is not always the right one.
+
+Ideation involves collaborative brainstorming with other members of your team to generate as many solutions as possible to a problem. This could include marketing, engineering, product management, or any other stakeholders for the product or service. During brainstorming sessions, you should explore all possible solutions. Don’t focus on whether something is a “good” or “bad” idea, just collect as many ideas as you can. The important thing here is to keep this process judgment-free.
+
+After brainstorming, you’ll then analyze your potential solutions and start to make choices about which ones are the best options to pursue as prototypes. You might return to user or competitive research to help you narrow down your ideas, and you might also create user flows to illustrate how the user will interact with your solution.
+
+**Prototype and Test**
+
+After you have an idea of how to solve the problem, you’re ready to enter the **prototype** phase, where your goal is to produce an early model of a product that demonstrates its functionality and can be used for testing. The **test** phase is critical to developing the right solution to address your user’s problem, and an organized approach to testing can help you create exceptional user experiences.
+
+Prototyping and testing are interconnected, which means that you’ll test your designs at each stage of prototype development rather than waiting to test until after the working prototype is complete. If the design is too polished the first time you present it to users, you might not get as much feedback. Think about ways to include testing throughout the design process, so that you’re iterating your designs based on user feedback instead of other reasons.
+
+For example, you might test the concepts behind your design by presenting users with a simple sketch, wireframe, or a sitemap. Taking what you learned, you might iterate on that design to a more detailed design on paper (known as a low-fidelity prototype) and conduct another round of user testing. At some point, you’ll iterate the design again into a working, interactive model using a software program (also known as a high-fidelity prototype) and test that as well. You might also consider testing more than one prototype at the same time to get feedback on multiple solutions, or testing the same prototype on multiple platforms, such as a laptop, tablet, and smartphone. 
+
+The goal of testing prototypes is to continue to refine the prototype as you gain insight into whether the design for your product or service is easy to use and solves the user’s problem. At some point, you’ll finalize a prototype, and then you’ll provide it to developers, who will then turn your design into a product.
+
+**Key takeaways**
+
+The design thinking framework is only one type of framework that UX designers use to organize their approach to designs, often based on the product they’re designing and the organization they’re working for. No matter which frameworks you use in your career, they all have a few core principles in common:
+
+- Focus on the user.
+- Create solutions that address the user’s problems.
+- Collaborate with teammates across departments.
+- Validate your designs.
+- Iterate as needed to design the right user experience.
+
+**Business requirements**
+
+For any UX design project, business requirements come from whatever entity assigns the project. That entity might be a for-profit business, a nonprofit organization, a governmental organization, or something else. But no matter where they come from, business requirements typically include two kinds of information: goals and parameters.
+
+Business goals typically describe:
+
+- The users they want the design to target
+- The outcomes they want the design to achieve
+- Their vision for the design’s final look and functionality
+
+Business parameters typically describe:
+
+- The project’s budget, timeline, and scope
+- The specific tools and systems that designers must use or design for
+- The requirements and standards the design must meet
+
+Business requirements vary depending on the project and its key players, and they can often be negotiated over the project’s lifecycle. And just as these requirements may evolve over the course of the project, so too should they shape designers’ execution of the design thinking process in powerful ways. In the empathize phase, for example, UX designers connect with users and gather information about their needs. This task costs time and money, so it should be conducted in ways that fit the project’s schedule and budget.
+
+**Key takeaways**
+
+Though design thinking technically starts with empathizing, actual design projects typically start with business requirements. Business requirements are goals and parameters set by whatever business or other entity is assigning the design project. They state crucial details like the business’s budget, timeframe, and vision for the design. Effective UX designers understand these requirements and consider them at every stage of the Design Thinking process.
+
+**Phase 1: Empathize with users**
+
+In the empathize phase of design thinking, designers seek to understand their users through a variety of research methods, including interviews, empathy maps, and user personas.
+
+The goal of empathizing is to understand  users' problems, wants, needs, and situations in order to design a product that works for them and creates an enjoyable experience. Throughout this phase, good UX designers try to understand users as deeply as they can while still working within key business requirements, like timeline and budget.
+
+Here are some powerful methods for empathizing with users as a UX designer:
+
+**Interviews**
+
+Interviews take many forms, but UX designers most commonly use four: 
+
+1. Questionnaires/surveys
+2. In-person interviews
+3. Phone interviews
+4. Video interviews
+
+Before starting interviews, designers consider the type and amount of information they need. Next, good designers consider their business requirements: how much time, money, and other resources do they have for planning and conducting interviews? Finally, designers can plan interviews that achieve the best balance between their information needs and their project’s parameters. 
+
+**Empathy maps**
+
+Once designers have conducted their interviews, they can turn to empathy maps. These are a great tool for processing the information a designer has collected. In a classic empathy map, designers draw directly from interviews to answer five questions about their users:
+
+1. Who exactly **are** the users and what are their situations?
+2. What do users **say** about their experiences with the product or similar products?
+3. What do users **think** about their experiences?
+4. What do users **do** before, during, and after their experiences?
+5. What do users **feel** about their experiences?
+
+Ideally, the answers to these questions will build on any user information included in a project’s business requirements. 
+
+**User personas**
+
+Personas are fictional characters who represent groups of similar users. They help designers distill large amounts of user information into more manageable chunks. 
+
+Once designers have established personas, they can keep their users in mind throughout the design thinking process without having to remember every detail they captured during their interviews. These personas also help designers explain their design choices to clients and other business stakeholders. Rather than try to describe their users in the abstract, they use user personas to tell compelling stories that put their designs in context.
+
+**Phase 2: Define users’ needs**
+
+In the define phase of design thinking, designers build on their business requirements and empathy work to state a series of specific problems they want their design to address. These problems should emerge from a thorough understanding of who users are and how they experience the product, including the specific tasks they encounter and the feelings they bring to those tasks.
+
+Designers analyze their empathy work to answer this key question: Which of my users’ needs or problems are the most important ones for my design to address? Typically, designers use a combination of tools to answer this question.
+
+**User stories**
+
+While a user persona distills a large group of similar users into a single character, user stories help designers focus their understanding of those users even more. A user story is a one-sentence narrative told from a persona’s perspective. It should encapsulate **who** the user is, **what** they want to do, and **why** they want to do it. The following is a simple template for writing a user story: 
+
+As **[type of user]**, I want to **[action]** so that **[benefit]**.
+
+When done well, a user story gives the designer information they can use to create a checklist they can return to as they define their users’ needs and ideate effective solutions.
