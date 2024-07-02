@@ -812,3 +812,36 @@ The prototype phase is where design sprints find their strongest application. De
 **Test**
 
 Design sprints integrate seamlessly into this phase by providing a structure for conducting user testing sessions and collecting feedback on the prototypes developed during the sprint. The insights gained from testing inform further iteration and refinement.
+
+## Plan design sprints
+
+<img src="images/plan-design-sprints-steps.pngg" width="300">
+
+**Step 1. User research**
+
+User research is always the first step in any sprint planning process. Your research should focus on the user problems you're trying to solve during the sprint. You don't have to detail out a specific problem right away. But getting a rough idea of what your sprint will focus on will help you decide which research methods make the most sense.
+
+**Step 2. Call in the experts**
+
+If you're planning the sprint, it's up to you to schedule short talks with colleagues or industry experts. You'll listen to these info-packed talks during the understand phase of the sprint. A good talk helps clarify the problem your sprint is trying to solve. Keep in mind, the more experts you bring in, the more schedules you have to accommodate. Start planning early; we promise, it'll be worth it.
+
+**Step 3. Find the right space**
+
+It's important to ensure that the space allows all employees equal opportunities to perform their job. A few things to look for: Whiteboards to capture your ideas or hang sticky notes, acoustics so participants can hear each other easily, accommodations for anyone who needs them, and comfortable furniture that you can move around easily. You're going to be spending a lot of time in this room, so get cozy.
+
+**Step 4. Gather supplies**
+
+If you're planning the design sprint, it's your job to make sure everyone has what they need to participate, kind of like a teacher handing out classroom supplies. Some essentials include markers, sticky notes, and a lot of snacks and water.
+
+**Step 5. Establish sprint rules**
+
+If you want this to be a gadgetless, distraction-free zone, now is the time to say so. Figuring out the ground rules in advance sets the tone for the sprint, gets everyone on the same page, and helps your team stay focused.
+
+**Step 6. Plan introductions**
+
+This can be pretty important since sprints involve cross-functional teams that may have never met before. We all know icebreakers can be a little cheesy, but they're still a great way to help your team get comfortable with each other. Plus, choosing icebreakers that are relevant to your sprint can motivate your team and put them in the right mindset. Here's an idea for an icebreaker. Ask everyone to talk about a time they called customer service to complain. This puts the team in the shoes of a user, exactly where you want them to be when solving UX design challenges.
+
+**Step 7. Post-sprint planning**
+
+That means thinking about what will happen after the sprint wraps up, like how your team might use what you've learned to achieve other goals. To do this, you need documentation. Make sure you enlist a few people to help document the design sprint by taking pictures, collecting sticky notes, and jotting down ideas.
+
