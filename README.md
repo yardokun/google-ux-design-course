@@ -436,3 +436,17 @@ Effective UX designers consider assistive technology throughout the design proce
 # Module 3 — Joining design sprints
 
 ## The UX Design Framework
+
+**Framework (in the world of UX design):** A conceptual tool that provides guidance on the best practices and processes for solving  problems and building solutions that solve the problems of real users. Frameworks provide structure for the design process and foster collaboration, which can spark innovations. Most UX designers follow a specific framework or process when approaching their work, from the first idea all the way through to the final launch of a product.
+
+**Design thinking framework:** A user-centered approach to problem-solving that includes activities like research, prototyping, and testing to help you understand who your user is, what their problems are, and what your design should include.
+
+The design thinking framework involves the following phases:
+
+- Empathize
+- Define
+- Ideate
+- Prototype
+- Test
+
+<img src="images/design-thinking-framework-phases.png" width="400">
