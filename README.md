@@ -815,7 +815,7 @@ Design sprints integrate seamlessly into this phase by providing a structure for
 
 ## Plan design sprints
 
-<img src="images/plan-design-sprints-steps.png" width="300">
+<img src="images/plan-design-sprints-steps.png" width="500">
 
 **Step 1. User research**
 
