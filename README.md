@@ -449,4 +449,4 @@ The design thinking framework involves the following phases:
 - Prototype
 - Test
 
-<img src="images/design-thinking-framework-phases.png" width="400">
+<img src="images/design-thinking-framework-phases.png" width="600">
