@@ -731,6 +731,6 @@ Before launching into a design sprint, you need to review your design challenge 
 - Does a design challenge require people from cross-functional teams to weigh in?
 - Is the design challenge's scope wide enough for a sprint?
 
-<img src="images/when-to-design-sprint.png" width="600">
+<img src="images/when-to-design-sprint.png" width="300">
 
 If you answered yes to any one of these questions, a design sprint might be the right move.
