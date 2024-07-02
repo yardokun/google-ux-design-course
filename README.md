@@ -450,3 +450,11 @@ The design thinking framework involves the following phases:
 - Test
 
 <img src="images/design-thinking-framework-phases.png" width="600">
+
+Though it may sound like a linear process, the design thinking framework should be iterative, which means that you’ll repeat certain phases as you refine your designs. For example, depending on the feedback you receive during testing, you might need to conduct additional research, brainstorm new ideas, or develop new prototypes.
+
+**Empathize**
+
+During the empathize phase, your primary goal is to learn more about the user and their problems, wants, and needs, and the environment or context in which they’ll experience your design. The most important part of the empathize phase is to step away from your assumptions and guesses and let your research findings inform your decision-making in later design phases.
+
+Your user research might include user surveys, interviews, and observation sessions, and you might also need to conduct some research on the competitors’ products to determine how your user frames competitors’ products as part of their daily life and daily problem-solving.
