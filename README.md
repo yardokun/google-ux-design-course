@@ -710,7 +710,7 @@ Once the testing is done, the prototype will be finalized, and the prototype wil
 
 The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users.
 
-<img src="images/design-sprint-phases.png" width="300">
+<img src="images/design-sprint-phases2.png" width="300">
 
 Design sprints generally include five phases:
 
