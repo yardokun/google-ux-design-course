@@ -710,6 +710,8 @@ Once the testing is done, the prototype will be finalized, and the prototype wil
 
 The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users.
 
+<img src="images/design-sprint-phases.png" width="300">
+
 Design sprints generally include five phases:
 
 - Understand
@@ -734,3 +736,36 @@ Before launching into a design sprint, you need to review your design challenge 
 <img src="images/when-to-design-sprint.png" width="300">
 
 If you answered yes to any one of these questions, a design sprint might be the right move.
+
+**Understand**
+
+The understand phase sets your sprint on the right track and helps your team get a clear picture of the design challenge. Your team takes time to learn from experts and engage in creative discussions with a lot of different people from other departments and industries. These conversations help you more clearly understand the design challenge.
+
+But what's the first rule of UX design? The user comes first. This means everything your team does during the sprint should focus on the user.
+
+**Ideate**
+
+You start this phase by coming up with ideas and building off of them to create solutions. Once you've got the team thinking, each participant takes time to sketch and present their ideas. Don't worry about your drawing skills here, the idea is what matters.
+
+On top of all the ideating that happens in phase two, you also need to start planning for user testing, which happens in phase five of the sprint. During user testing, you'll have a diverse group of people test your product and provide feedback. To be able to do this, you need to start recruiting users that fit your target profile now, so the sprint stays on schedule. By the time you reach phase three, you have a lot of potential solutions for your design challenge.
+
+**Decide**
+
+Now it's time to decide which solutions you want to build. Finally, you'll wrap up the day by creating a step-by-step blueprint for your prototype.
+
+**Prototype**
+
+You're now ready to build the first version of your new app feature. At the end of this phase, you don't need a finished product, just something realistic enough to test with users. By focusing only on what the user experiences on their screen, your team creates a working prototype. During this phase, you also finish prepping for user testing by confirming the test schedule, finalizing interview questions, and making sure your prototype is good to go.
+
+**Testing**
+
+Now it's time to put your prototype in front of users. As users test your prototype, you observe how they react and then interview them about their experiences. Your team gains critical insight about changes that need to be made before you launch the new feature.
+
+**Benefits of design sprints**
+
+- It's all about the user
+- Value every person in the room
+- The best ideas rise to the top
+- Time to focus
+- Lowers risks
+- Versatile scheduling
