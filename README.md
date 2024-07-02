@@ -664,3 +664,17 @@ Wireframes are rough sketches of the product that bring the sitemap to life. Des
 Paper wireframes are sketches on paper. They use horizontal lines to represent text, rectangles or boxes to represent icons or images, and other shapes to represent buttons and additional elements. It’s easy and inexpensive to iterate many versions with paper.
 
 <img src="images/paper-wireframe-example.png" width="400">
+
+**Digital wireframes**
+
+Digital wireframes are developed in a UX design tool such as Figma or Adobe XD. Digital wireframes are 2D designs that show, at a high level, what the product will look like. Designers use grayscale, shapes, and placeholder text to demonstrate what the design will look and feel like when content is added.
+
+**Low fidelity (lo-fi) prototypes**
+
+In UX, “fidelity” means how closely a design matches the look and feel of the final product. A low fidelity prototype is a simple interactive model that provides a basic idea of what the product will look like and how its components will flow for users. Designers often create lo-fi prototypes by assembling their wireframes and adding interactivity, or the ability to navigate from one screen to another. Designers use lo-fi prototypes to test and improve their designs before spending time and effort developing more detailed high-fidelity prototypes.
+
+**High fidelity (hi-fi) prototypes**
+
+A high fidelity prototype takes the lo-fi prototype and brings it as close to the final product as possible. Hi-fi prototypes incorporate all of the product’s components, interactivity, and content, though some content may be represented by realistic placeholders. It is not the final product, but it enables people to more fully experience how the product will look, feel, and work. For example, consider the richly detailed hi-fi prototype for Tee’s Shirts below. More than just an assembly of navigable wireframes, this hi-fi prototype will enable testers and stakeholders to simulate a realistic experience with the final product, which means richer and more detailed feedback for designers on every facet of the final product.
+
+<img src="images/high-fidelity-prototype-example.png" width="500">
