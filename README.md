@@ -663,4 +663,4 @@ Wireframes are rough sketches of the product that bring the sitemap to life. Des
 
 Paper wireframes are sketches on paper. They use horizontal lines to represent text, rectangles or boxes to represent icons or images, and other shapes to represent buttons and additional elements. It’s easy and inexpensive to iterate many versions with paper.
 
-<img src="images/paper-wireframe-example.png" width="600">
+<img src="images/paper-wireframe-example.png" width="400">
