@@ -703,3 +703,34 @@ Effective testing aims to reveal what users think, feel, and experience as they 
 **How will information be collected?** Designers use a range of methods to collect information from users, including observation and interviews. They may also be able to gather information from the prototype itself or the systems that participants use to interact with the prototype.
 
 Once the testing is done, the prototype will be finalized, and the prototype will move on to the developers, who will turn the design into the actual product.
+
+## Understand design sprints
+
+**Design sprint:** A time-bound process with five phases typically spread out over five full, eight-hour days.
+
+The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users.
+
+Design sprints generally include five phases:
+
+- Understand
+- Ideate
+- Decide
+- Prototype
+- Test
+
+**Design sprint benefits**
+
+- Save time
+- Create a path to bring a product to market
+- Prioritize the user
+- Test product before launch
+
+Before launching into a design sprint, you need to review your design challenge and ask yourself these key questions:
+
+- Are there many potential solutions to your design challenge?
+- Does a design challenge require people from cross-functional teams to weigh in?
+- Is the design challenge's scope wide enough for a sprint?
+
+<img src="images/when-to-design-sprint.png" width="600">
+
+If you answered yes to any one of these questions, a design sprint might be the right move.
