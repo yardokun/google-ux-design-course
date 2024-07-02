@@ -845,3 +845,39 @@ This can be pretty important since sprints involve cross-functional teams that m
 
 That means thinking about what will happen after the sprint wraps up, like how your team might use what you've learned to achieve other goals. To do this, you need documentation. Make sure you enlist a few people to help document the design sprint by taking pictures, collecting sticky notes, and jotting down ideas.
 
+**Sprint brief:** A document that you'll share with all of your attendees to help them prepare for the sprint.
+
+Things that make up a design sprint brief:
+
+**Sprint challenge**
+
+Introduces your team to the sprint objectives.
+
+**Key deliverables**
+
+What your team actually wants to create by the end of the sprint.
+
+**Logistics**
+
+First, everyone participating in the sprint needs to know **where** the sprint will happen and **when** it will be held. You also want to list **who**'s attending and the name of the **sprint leader**.
+
+**Sprint leader:** Usually the person who sends out the brief to the team. But, that's not always the case. If you want to designate a sprint leader, you should do it before you send out the sprint brief.
+
+**Approvers**
+
+Add approvers. Got some higher-ups that need to sign off on the product before launch? This is the place to note it.
+
+**Resources**
+
+For short-term sprints, there's probably a team already assigned to this project. For long-term sprints, you may need to create a plan to secure additional resources.
+
+**Project overview**
+
+1. Current state of the project
+2. Roadblocks
+3. Early wins, if any
+4. Estimated launch plan
+
+**Sprint schedule**
+
+An hour-by-hour schedule of the five-day sprint, including break times. This lets people know what to expect and gives them time to prep so that you can keep things moving along during the sprint.
