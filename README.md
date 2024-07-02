@@ -678,3 +678,28 @@ In UX, “fidelity” means how closely a design matches the look and feel of th
 A high fidelity prototype takes the lo-fi prototype and brings it as close to the final product as possible. Hi-fi prototypes incorporate all of the product’s components, interactivity, and content, though some content may be represented by realistic placeholders. It is not the final product, but it enables people to more fully experience how the product will look, feel, and work. For example, consider the richly detailed hi-fi prototype for Tee’s Shirts below. More than just an assembly of navigable wireframes, this hi-fi prototype will enable testers and stakeholders to simulate a realistic experience with the final product, which means richer and more detailed feedback for designers on every facet of the final product.
 
 <img src="images/high-fidelity-prototype-example.png" width="600">
+
+During prototyping, whether lo-fi or hi-fi, designers often revisit information and decisions from earlier stages of the design thinking process. When evaluating prototypes, for example, they should ask if the layout, flow, look, and feel address the problem statement developed during the define phase.
+
+**Phase 5: Test solutions**
+
+In the test phase, the goal is to refine the prototype as designers gain insight into whether or not it solves the defined problem.
+
+Effective testing aims to reveal what users think, feel, and experience as they use a product, such as a website or an app. To get rich and unbiased results, good testing starts with a plan. Let’s briefly explore the key elements of UX testing by considering the who, what, when, where, why, and how of a testing plan:
+
+**Who will participate in the tests?** Early on, designers might ask friends, colleagues, design partners, or other informal participants to test a product and offer feedback. Later on, ideal participants include real-life users who align with the project’s user personas.
+
+**What types of tests will be conducted?**
+
+**When and where will the tests be conducted?** Tests can be conducted in person or virtually, in a range of different environments or communication channels. It all depends: Good UX designers plan tests that achieve the best balance between their needs and their project’s business requirements.
+
+**Why are the tests conducted?** UX tests are conducted for a range of reasons, but the core goal is always to understand users and improve their experiences. During the test phase of design thinking, some of the most common reasons for testing are to:
+
+- **Validate ideas, information, or decisions** from other parts of the design thinking process, such as user information generated during the empathize phase or design decisions made during ideation.
+- **Uncover usability issues** to address with further iteration and prototyping. Users experience these issues as pain points that prevent them from using the product and achieving their goals with ease and enjoyment.
+
+**How will participants engage with the prototype?** Here, a key consideration is whether the testing process itself is inclusive and accessible for all participants. Effective testing incorporates assistive technologies and other inclusive elements to ensure all participants can engage fully.
+
+**How will information be collected?** Designers use a range of methods to collect information from users, including observation and interviews. They may also be able to gather information from the prototype itself or the systems that participants use to interact with the prototype.
+
+Once the testing is done, the prototype will be finalized, and the prototype will move on to the developers, who will turn the design into the actual product.
