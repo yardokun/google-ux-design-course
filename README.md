@@ -565,3 +565,87 @@ While a user persona distills a large group of similar users into a single chara
 As **[type of user]**, I want to **[action]** so that **[benefit]**.
 
 When done well, a user story gives the designer information they can use to create a checklist they can return to as they define their users’ needs and ideate effective solutions.
+
+**User journeys**
+
+Once a designer has distilled their user groups into realistic personas and stories, it’s time to start mapping out each persona’s user journey. A user journey is a series of experiences that the user has as they try to achieve their goal. It might be an experience they have with the product that’s being designed, an experience they have with a similar product, or an experience they have in the absence of those products.
+
+**Problem statements**
+
+With complete user journeys for each persona, a designer can better identify the problems their design must solve or the needs their design must address. Then, they can distill these problems or needs into problem statements. 
+
+A problem statement summarizes **who** the user is, **what** they need from a design, and **why**. The following is a simple template for writing a problem statement:
+
+**[Name of user persona]** is a **[type of user]** who needs **[type of user experience]** because **[benefits of user experience]**.
+
+This template is similar to a user story, but problem statements are typically more detailed, and they are written from the designer’s perspective.
+
+Effective UX designers create problem statements for each of their user personas. This helps designers create products that address the needs of multiple user types rather than catering solely to one type of user.
+
+**Phase 3: Ideate solutions**
+
+In the ideate phase of design thinking, UX designers brainstorm lots of possible solutions to the user problems they’ve identified. They use brainstorming and research techniques like “How might we?” (HMW), Rapid Sketching, competitive audits, and SCAMPER. It should be a fun, creative, and judgment-free process: The more ideas, the better! But once the ideas are out there, good UX designers take time to check possible solutions against their project’s business requirements. Ultimately, their goal is to choose the solution that will satisfy requirements while also working best for users.
+
+Here are some of the most common techniques for brainstorming:
+
+**“How might we?”**
+
+In this brainstorming exercise, designers take a problem statement from the define phase and turn it into a list of questions that start with “How might we,” or HMW.  HMW questions help designers reframe user problems as exciting opportunities for solutions.
+
+After creating these HMW questions, good UX designers spend time answering them with as many possible solutions as they can think of—and they don’t hold back!
+
+**Rapid Sketching**
+
+While “How might we?” focuses on written questions and solutions, Rapid Sketching is a visual approach to ideation. (It’s commonly called “Crazy Eights” in the UX design industry.) Rapid Sketching is especially useful when designers need to brainstorm the visual elements of a new design. First, designers clarify the problem they’re trying to solve or the idea they’re trying to iterate. They might use one of the questions or solutions they developed in a HMW exercise. Then, they:
+
+1. Divide a large sheet of paper into eight squares.
+2. Grab something to draw with.
+3. Start an eight-minute timer.
+4. Take one minute to sketch an idea or solution in each square.
+
+When the eight-minute timer goes off, there should be a different sketch in each of the paper’s eight squares. Designers can adapt this approach as needed. For example, if a designer has less time or smaller sheets of paper, they might start with four squares and four minutes for sketching.
+
+**Competitive audits**
+
+When designers want new ideas about how to solve a problem, they can also audit their competitors by asking questions, like: 
+
+- What products do they offer?
+- What are those products’ strengths and areas for improvement?
+
+By answering questions like these, designers can get inspiration for their own designs, identify gaps in the market, and find evidence for what designs have already worked and not worked.  With audits, designers can save time, money, and effort by learning from competitors who have already designed similar products or tried to solve similar problems.
+
+**SCAMPER**
+
+SCAMPER is a technique designers used to brainstorm changes and alternatives to ideas and designs. Each letter of the acronym stands for a different action that designers can apply to their designs, such as substituting (S) elements for other elements, combining (C) elements into one, or adapting (A) elements with alternatives. In full, the acronym stands for: Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Rearrange. 
+
+**Collaboration**
+
+Ideation typically works best when it’s collaborative. Effective design teams often ideate together in collaborative working sessions. And whether they’re working alone or in a team, designers often bring other players into the ideation process, including their users and their business stakeholders. 
+
+Before launching a collaborative partnership or working session, effective designers or design teams typically ensure they’ve answered crucial questions such as:
+
+- Who will be involved? What will their roles be?
+- Where will the collaboration happen? Will it be in person or virtual?
+- Why is the collaboration happening? What is the end goal?
+- How will the collaboration happen? What tools and processes will we use?
+
+**Business requirements**
+
+Ideation techniques help designers brainstorm lots of ideas, but will those ideas meet their project’s business requirements? As designers review their ideas, they must refer to their business requirements and ask questions like these:
+
+- Which of these ideas will be feasible within the project’s budget and schedule?
+- Which of these ideas will best meet the standards for the design?
+
+While ideation starts with exploring boundless possibilities, there will always be firm parameters for a project. Good UX designers often try to frame these parameters positively: They are obstacles that inspire creative problem solving, guardrails that keep the design process on track, and filters for sifting through all those boundless possibilities.
+
+**Phase 4: Prototype solutions**
+
+In the prototyping phase, the goal is not to build a final product. Rather, designers produce early models, or prototypes, of the solution so they can see how it will look and function for users. Prototypes also show stakeholders and potential users what the design can do. So, how do designers prototype? There are many practices they can use.
+
+**Information architecture (IA) and sitemaps**
+
+Essentially a high-level diagram or flowchart that shows how users can move through a product, like a website or an app.
+
+In planning a product’s information architecture, designers often create something called a sitemap, like this one for a website:
+
+<img src="images/sitemap-example.png" width="600">
