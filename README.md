@@ -649,3 +649,18 @@ Essentially a high-level diagram or flowchart that shows how users can move thro
 In planning a product’s information architecture, designers often create something called a sitemap, like this one for a website:
 
 <img src="images/sitemap-example.png" width="600">
+
+Like all good information architecture, this sitemap organizes the product by outlining its hierarchy and sequence:
+
+- Hierarchy refers to how topics are prioritized and subordinated. Hierarchies emphasize topics that are broader or more important, which in turn contain smaller or less important topics. In the sitemap above, for example, “Shop” is a major topic that contains smaller topics, like “Denim/Pants.”
+- Sequence refers to the order in which users can navigate through the product’s hierarchy, like navigating from the “Homepage” to “Shop” to “Denim/Pants” and so on.
+
+**Wireframing**
+
+Wireframes are rough sketches of the product that bring the sitemap to life. Designers use them to figure out how the product’s pages are laid out, how each page’s elements are arranged, and how users will progress from page to page. They are relatively bare bones, consisting primarily of shapes, lines, and minimal text. There are two methods designers can employ:
+
+**Paper wireframes**
+
+Paper wireframes are sketches on paper. They use horizontal lines to represent text, rectangles or boxes to represent icons or images, and other shapes to represent buttons and additional elements. It’s easy and inexpensive to iterate many versions with paper.
+
+<img src="images/paper-wireframe-example.png" width="600">
