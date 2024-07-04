@@ -911,4 +911,4 @@ Questions a UX designer might ask during this part of the retrospective include:
 
 This is also a good time to acknowledge a team member’s strong performance. Celebrating successes builds relationships and increases cohesion and harmony within the team.
 
-<img src="images/design-sprint-retrospective-img-1" width="500">
+<img src="images/design-sprint-retrospective-img-1.png" width="500">
