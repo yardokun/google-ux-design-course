@@ -751,7 +751,7 @@ On top of all the ideating that happens in phase two, you also need to start pla
 
 **Decide**
 
-Now it's time to decide which solutions you want to build. Finally, you'll wrap up the day by creating a step-by-step blueprint for your prototype.
+Now it's time to decide which solutions you want to build. Your team will decide on the solution with the greatest chance of success. Finally, you'll wrap up the day by creating a step-by-step blueprint for your prototype.
 
 **Prototype**
 
@@ -881,3 +881,34 @@ For short-term sprints, there's probably a team already assigned to this project
 **Sprint schedule**
 
 An hour-by-hour schedule of the five-day sprint, including break times. This lets people know what to expect and gives them time to prep so that you can keep things moving along during the sprint.
+
+## Reflect on design sprints
+
+**Retrospective:** A collaborative critique of the team's design sprint.
+
+These critiques focus on improving the design solution itself, considering factors like usability, visuals, and alignment with user needs. 
+
+We usually do retrospective meetings immediately following the sprint so that everyone's thoughts are fresh. Retrospective meetings don't have any particular agenda. The goal is to make sure everyone who took part in the sprint has a chance to give feedback.
+
+**Key questions in a retrospective:**
+
+- What went well?
+- What can be improved?
+
+The person who led the sprint will guide the conversation and someone will take notes so that the team can use the feedback to make the next sprint even more productive.
+
+Retrospectives are super useful. They can help you to work better as a team, improve how you communicate with clients, and even point out areas where you can grow as an individual. Retrospectives are all about empowering, not shaming. If something didn't go well, this is your chance to make sure you have the resources and the tools to do better next time.
+
+**What went well?**
+
+Retrospectives usually start with discussion on the parts of the design sprint that were successful and areas in which the team did well. Maybe a new process was created that could be applied to future sprints. Or maybe the addition of a new digital tool enhanced the team’s productivity. Analyze the team’s wins, and think about how they could be applied to future sprints.
+
+Questions a UX designer might ask during this part of the retrospective include:
+
+- Which tools saved me the most time and effort?
+- When did I feel the most satisfaction?
+- What helped me make my best contribution to the team during this sprint?
+
+This is also a good time to acknowledge a team member’s strong performance. Celebrating successes builds relationships and increases cohesion and harmony within the team.
+
+<img src="images/design-sprint-retrospective-img-1" width="500">
