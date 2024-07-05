@@ -952,3 +952,90 @@ Questions a UX designer might ask include:
 - What did I discover during the sprint that I’m still wondering about?
 - How could the current process be holding the team back from creating better solutions?
 
+# Module 4 — Integrating research into the design process
+
+## Understand the role of research in design
+
+**User research:** Focuses on understanding user behaviors, needs, and motivations through observation and feedback.
+
+The goal of user experience research is to prioritize the user. We also want to make sure business needs are met. UX research can help bridge the gap between what a business thinks the user needs and what the user actually needs, before an expensive and time-consuming product is made.
+
+**Product developement life cycle:** The process used to take a product from an idea to reality.
+
+User research is a continuous part of the product development life cycle and takes place before, during, and after phase 3: Design.
+
+<img src="images/product-developement-life-cycle-user-research.png" width="500">
+
+**Foundational research:** Research that takes place before anything is designed.
+
+Foundational research answers these questions:
+
+- What should we build?
+- What are the user's problems?
+- How can we solve them?
+- Am I aware of my own biases, and am I able to filter them as I do research?
+
+The goal of foundational research is to help define the problem you would like to design a solution for. This research includes talking with users and identifying their pain points when using a product.
+
+**Design research:** Research that takes place during the design phase, phase 3, of the product development life cycle.
+
+Design research answers this question:
+
+- How should we build it?
+
+A list of things you might want to ask users about during this phase of research:
+
+- How was your experience using the prototype today?
+- How easy or difficult was it to use? Why?
+- Did you encounter any challenges?
+
+The goal of design research is to inform how the product should be built. Design research gives designers a chance to reduce the problems that occur as users interact with your prototype. You can conduct design research very early in the design process when you have paper sketches, or you can wait until you have a prototype to test with users. It just depends on what your key research goals are.
+
+**Post-launch research:** Research that only happens at the end of the product developement life cycle.
+
+Post-launch research can be used to evaluate how well a launch feature is meeting the needs of users.
+
+Post-launch research answers this question:
+
+- Did we succeed?
+
+The goal of post-launch research is to understand how users experienced the product and whether it was a good or poor user experience. You might also want to check your product's performance against the competition.
+
+**UX researcher qualities**
+
+- Emphaty: Able to understand someone else's feelings or thoughts in a situation
+- Pragmatism: (Practical approach to problem-solving) Focused on reaching goals
+- Collaboration: Can work with a range of people, personalities, and work styles
+
+Your product design should be built upon research and facts, not assumptions. UX research aligns what you, as the designer, *think* the user needs with what the user *actually* needs.
+
+<img src="images/foundational-research.png" width="500">
+
+**Foundational research** is always done *before* you start designing. Within the product development life cycle, foundational research happens during the brainstorm stage (stage one) to help you empathize with users, understand their needs, and inspire new design directions. During this stage, you will also make personas and user stories.
+
+In foundational research, your goal is to figure out what the user needs and how to address those needs with your product. Strong foundational research can contradict your personal perspective on what a good solution might be.
+
+Questions you might consider during foundational research include:
+
+- What should we build?
+- What are the user’s problems?
+- How can we solve those problems?
+- Am I aware of my own biases, and am I able to filter them as I do research?
+
+There are lots of research methods for conducting foundational research, but many of them are based on observations. Common foundational research methods include: 
+
+- **Interviews:** A research method used to collect in-depth information on people's opinions, thoughts, experiences, and feelings. You’ll often conduct interviews of your target users themselves.
+
+- **Surveys:** An activity where many people are asked the same questions in order to understand what most people think about a product.
+
+- **Focus groups:** A small group of people whose reactions are studied. For example, your focus group might bring together eight users to discuss their perspectives about new features in your design. A focus group is usually run by a moderator who guides the group on a certain topic of conversation. 
+
+- **Competitive audit:** An overview of your competitors’ strengths and weaknesses.
+
+
+<img src="images/design-research.png" width="500">
+
+<img src="images/post-launch-research.png" width="500">
+- **Field studies:** Research activities that take place in the user's context or personal environment, rather than in an office or lab. 
+
+- **Diary studies:** A research method used to collect qualitative data about user behaviors, activities, and experiences over time. Often, a user will log, or diary, about their daily activities and provide information about their behaviors and needs, which can help inform your designs. 
