@@ -1009,7 +1009,7 @@ The goal of post-launch research is to understand how users experienced the prod
 
 Your product design should be built upon research and facts, not assumptions. UX research aligns what you, as the designer, *think* the user needs with what the user *actually* needs.
 
-<img src="images/foundational-research.png" width="500">
+<img src="images/foundational-research.png" width="600">
 
 **Foundational research** is always done *before* you start designing. Within the product development life cycle, foundational research happens during the brainstorm stage (stage one) to help you empathize with users, understand their needs, and inspire new design directions. During this stage, you will also make personas and user stories.
 
@@ -1033,9 +1033,9 @@ There are lots of research methods for conducting foundational research, but man
 - **Competitive audit:** An overview of your competitors’ strengths and weaknesses.
 
 
-<img src="images/design-research.png" width="500">
+<img src="images/design-research.png" width="600">
 
-<img src="images/post-launch-research.png" width="500">
+<img src="images/post-launch-research.png" width="600">
 - **Field studies:** Research activities that take place in the user's context or personal environment, rather than in an office or lab. 
 
 - **Diary studies:** A research method used to collect qualitative data about user behaviors, activities, and experiences over time. Often, a user will log, or diary, about their daily activities and provide information about their behaviors and needs, which can help inform your designs. 
