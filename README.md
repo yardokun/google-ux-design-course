@@ -1191,3 +1191,5 @@ Disadvantages:
 - Secondary research can be misleading and generalizing if not done appropriately.
 
 **The research method we choose is decided by the question we are trying to answer.**
+
+## Identify biases in UX research
