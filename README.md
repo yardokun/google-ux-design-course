@@ -1092,7 +1092,7 @@ All four of these types of research can intermix. Primary and secondary research
 
 Primary research methods:
 
-<img src="images/interviews-image.png" width="600">
+<img src="images/interviews-image.png" width="500">
 
 **Interviews:** A research method used to collect in-depth information on people's opinions, thoughts, experiences, and feelings.
 
@@ -1105,13 +1105,13 @@ Spot the difference:
 
 The second question is open-ended and allows the user to share more about their experience.
 
-<img src="images/surveys-image.png" width="600">
+<img src="images/surveys-image.png" width="500">
 
 **Surveys:** An activity where many people are asked the same questions in order to understand what most people think about a product.
 
 Surveys allow us to hear from a larger number of users than we can during interviews. Surveys include a mix of quantitative and qualitative questions. Surveys are most useful after you have some initial understanding of the users' pain points and want to solidify that by surveying a larger number of people.
 
-<img src="images/usability-studies-image.png" width="600">
+<img src="images/usability-studies-image.png" width="500">
 
 **Usability study:** A technique that help us evaluate a product by testing it on users.
 
