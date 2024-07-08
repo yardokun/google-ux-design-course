@@ -1114,3 +1114,54 @@ If the product has already launched, a post-launch usability study might include
 The KPIs for an app or new product launch might include things like how much time the user spent on a task or the number of clicks they used to make a purchase.
 
 **The research method we choose is decided by the question we are trying to answer.**
+
+**Secondary research**
+
+Benefits:
+
+- Saves time and money
+- Immediately accessible
+- Backs up primary research
+
+Drawbacks:
+
+- No first-hand user interaction
+- No specific user feedback
+
+**Interviews**
+
+Benefits:
+
+- Understand what users think and why
+- Ask follow up questions
+
+Drawbacks:
+
+- Take time and money
+- Small sample size
+
+**Surveys**
+
+Benefits:
+
+- Larger sample size
+- Fast
+- Inexpensive
+
+Drawbacks:
+
+- No in-depth feedback
+
+**Usability studies**
+
+Benefits:
+
+- Firsthand user interaction
+- Challenge our assumptions
+- In-depth feedback
+
+Drawbacks:
+
+- Only measure how easy a product is to use
+- Expensive
+- Difference in lab use versus real life
