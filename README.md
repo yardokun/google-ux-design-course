@@ -1090,13 +1090,15 @@ Here's a quick way to remember the difference:
 
 All four of these types of research can intermix. Primary and secondary research can be both qualitative and quantitative. For example, an interview is qualitative research. An interview conducted by you is primary research. If you review an article about an interview conducted by someone else, it’s secondary research. It’s important to be able to identify the difference between these types of research because the data you collect forms the basis of your design decisions. 
 
-Primary research methods:
+**Primary research methods**
 
 <img src="images/interviews-image.png" width="500">
 
 **Interviews:** A research method used to collect in-depth information on people's opinions, thoughts, experiences, and feelings.
 
-Interviews are usually conducted in person and include a series of open-ended questions where the researcher asks the user about their experience. Use interviews when your questions require a detailed response.
+Interviews can be performed one-on-one or in a group setting, like a focus group.
+
+Interviews can take the form of qualitative and quantitative research. A qualitative research method includes open-ended questions that require participants to explain their answers by providing more details. A quantitative research method includes only close-ended questions, like questions that require only “yes”  or “no” responses or set multiple choice questions.
 
 Spot the difference:
 
@@ -1105,11 +1107,44 @@ Spot the difference:
 
 The second question is open-ended and allows the user to share more about their experience.
 
+Best practice is to conduct at least five user interviews during your research. As you conduct your interviews, you’ll start to find similarities in the feedback that users provide about what works and what doesn’t work about your product. This is exactly the kind of feedback you want!
+
+Advantages:
+
+- You’re better able to understand what a user thinks and why.
+- You can adjust your questions or refocus the discussion based on the user’s answers.
+- You have the ability to ask follow-up questions in real time.
+- You have the ability to ask questions specific to a user’s needs.
+- You’ll receive direct suggestions from the user.
+
+Disadvantages:
+
+- It’s time-consuming to interview each user.
+- It’s expensive to pay participants and to rent space for the interviews.
+- The sample sizes are smaller, due to time and money constraints.
+- Group interviews can be affected by the bandwagon effect, or going along with the group’s opinion instead of thinking creatively, which can discourage open discussion by people who have an opinion that doesn’t align with the majority of the group. 
+
 <img src="images/surveys-image.png" width="500">
 
 **Surveys:** An activity where many people are asked the same questions in order to understand what most people think about a product.
 
-Surveys allow us to hear from a larger number of users than we can during interviews. Surveys include a mix of quantitative and qualitative questions. Surveys are most useful after you have some initial understanding of the users' pain points and want to solidify that by surveying a larger number of people.
+Surveys allow us to hear from a larger number of users than we can during interviews. Surveys are a great way to measure the success of your product, during development and after it’s launched. For example, sending surveys after a product is released can help you measure the effectiveness of your product and provide a foundation for future improvements. 
+
+You can design surveys to include open-ended questions for qualitative research, which allow research participants to clarify their survey responses, as well as close-ended questions for quantitative research, which generate numerical data.
+
+Surveys are most useful after you have some initial understanding of the users' pain points and want to solidify that by surveying a larger number of people.
+
+Advantages:
+
+- You can learn more from a larger sample size.
+- You are able to gather results and insights quickly.
+- Surveys are usually inexpensive because they don’t take as much time for participants to complete, and they can be done remotely. 
+
+Disadvantages:
+
+- Surveys often do not allow for in-depth feedback; most questions will have responses drawn from a set of multiple-choice answers.
+- There are some types of research questions that won’t work in a survey format.
+- Surveys usually do not allow for personalization.
 
 <img src="images/usability-studies-image.png" width="500">
 
@@ -1117,63 +1152,42 @@ Surveys allow us to hear from a larger number of users than we can during interv
 
 The goal of a usability study is to identify pain points that the user experiences with different prototypes, so the issues can be fixed before the final product launches. During a usability study, you get a chance to see how your end users interact with your new product or feature, and afterward you can interview the users to learn more about their experience. The usability study data is then used to improve the UX of the design.
 
+Usability studies help demonstrate if a product is on the right track or if the design needs to be adjusted. There are lots of ways to test usability, both in person and online. It’s a good idea to record your usability sessions, either audio or video, so you can reference the user data as you make design decisions later on in the process. 
+
+Qualitative research is based on observations, and a critical part of conducting usability studies is observing how participants interact with the product you’ve designed. Focusing on qualitative research during usability studies can generate more personal insights by assessing the behavior of users as they experience the product. Quantitative research can also be used when conducting usability studies to understand participants’ impressions of the product.
+
 If the product has already launched, a post-launch usability study might include data like success metrics and key performance indicators, which are commonly known as KPIs.
 
 **Key performance indicators (KPIs):** Critical measures of progress toward an end goal.
 
 The KPIs for an app or new product launch might include things like how much time the user spent on a task or the number of clicks they used to make a purchase.
 
+Advantages:
+
+- You can learn from first-hand user interaction and observation.
+- Usability studies can challenge your assumptions about your product by demonstrating a completely different result than you were expecting.
+- Users can provide in-depth feedback.
+
+Disadvantages:
+
+- Usability studies only measures how easy it is to use a product.
+- This type of research can be expensive, especially if it’s conducted in person.
+- There can be differences between a “controlled” usability study in a lab versus how a user experiences the product in their real life.
+
+**Secondary research methods**
+
+Secondary research can be completed at any phase of the project, since you’re using information from outside sources. In other words, secondary research is not a direct result of your product or the user you’re designing for. The information you discover during secondary research might lay a foundation for your primary research, so you have a better idea of where to focus your efforts. Or, secondary research might supplement the findings from your primary research for a project, to reiterate or strengthen your conclusions.
+
+Advantages:
+
+- Secondary research is generally cheaper and faster than primary research. This means you’ll save time and money.
+- You can often find secondary research via online searches and subscription research publications.
+- Secondary research can be a good supplement to findings from your primary research.
+
+Disadvantages:
+
+- You will not learn from any first-hand user interaction.
+- You will not receive user feedback specific to your product.
+- Secondary research can be misleading and generalizing if not done appropriately.
+
 **The research method we choose is decided by the question we are trying to answer.**
-
-Benefits and drawbacks of research methods:
-
-**Secondary research**
-
-Benefits:
-
-- Saves time and money
-- Immediately accessible
-- Backs up primary research
-
-Drawbacks:
-
-- No first-hand user interaction
-- No specific user feedback
-
-**Interviews**
-
-Benefits:
-
-- Understand what users think and why
-- Ask follow up questions
-
-Drawbacks:
-
-- Take time and money
-- Small sample size
-
-**Surveys**
-
-Benefits:
-
-- Larger sample size
-- Fast
-- Inexpensive
-
-Drawbacks:
-
-- No in-depth feedback
-
-**Usability studies**
-
-Benefits:
-
-- Firsthand user interaction
-- Challenge our assumptions
-- In-depth feedback
-
-Drawbacks:
-
-- Only measure how easy a product is to use
-- Expensive
-- Difference in lab use versus real life
