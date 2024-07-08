@@ -1067,24 +1067,26 @@ Research is crucial to creating a product that satisfies users. As an entry-leve
 
 **Methods:** How you get the research done.
 
-Two ways to categorize research methods.
+There are two ways to categorize research: *who conducts* the research and the *type of data* collected.
 
 The first way is based on who conducts the research:
 
-- **Primary research:** Research you conduct yourself. For example, you might interview users, survey users, or conduct a usability study to hear from users directly.
+- **Primary research:** Research *you* conduct yourself. For example, you might interview users, survey users, or conduct a usability study to hear from users directly.
 
-- **Secondary research:** Research that uses information someone else has put together. Secondary research can be information from books, articles, or journals. Most of the time, secondary research is done at the very beginning of the product development lifecycle, before any ideation happens. Secondary research is often done by product leads, not UX designers. But the insights they share can help you make a stronger case for your design choices and gain more empathy for your users.
+- **Secondary research:** Research that uses information *someone else* has put together. Secondary research can be information from books, articles, or journals. Most of the time, secondary research is done at the very beginning of the product development lifecycle, before any ideation happens. Secondary research is often done by product leads, not UX designers. But the insights they share can help you make a stronger case for your design choices and gain more empathy for your users.
 
 The second way is based on the type of data collected:
 
-- **Quantitative research:** Focuses on data that can be gathered by counting or measuring. Quantitative research is often based on surveys of large groups of people using numerical answers. This type of research often answers questions like: How many? How much? If you want to know how the majority of users are experiencing a product, you should use quantitative research.
+- **Quantitative research:** Focuses on data that can be *gathered by counting or measuring*. Quantitative research is often based on surveys of large groups of people using numerical answers. This type of research often answers questions like: "How many?" "How much?" If you want to know how the majority of users are experiencing a product, you should use quantitative research.
 
-- **Qualitative research:** Focuses on observations about why and how things happen. Qualitative research is often based on interviews, where we focus on a smaller number of users and understand their needs in greater detail. This type of research answers questions like: Why? Or, how did this happen? If you want to know why users are having a bad experience with your product and how to improve it, you should use qualitative research.
+- **Qualitative research:**  Is primarily collected *through observations and conversations*. Qualitative research is often based on interviews, where we focus on a smaller number of users and understand their needs in greater detail. This type of research answers questions like: "Why?" Or, "how did this happen?" If you want to know why users are having a bad experience with your product and how to improve it, you should use qualitative research.
 
 Here's a quick way to remember the difference:
 
 - Quantitative research gives you the "what"
 - Qualitative research gives you the "why."
+
+<img src="images/types-of-research.png" width="600">
 
 Research methods:
 
