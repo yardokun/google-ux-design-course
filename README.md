@@ -1115,6 +1115,8 @@ The KPIs for an app or new product launch might include things like how much tim
 
 **The research method we choose is decided by the question we are trying to answer.**
 
+Benefits and drawbacks of research methods:
+
 **Secondary research**
 
 Benefits:
