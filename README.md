@@ -1193,3 +1193,47 @@ Disadvantages:
 **The research method we choose is decided by the question we are trying to answer.**
 
 ## Identify biases in UX research
+
+**Bias:** Favoring or having prejudice against something based on limited information.
+
+**Confirmation bias:** Occurs when you start looking for evidence to prove a hypothesis you have.
+
+**Overcoming confirmation bias**
+
+- Ask open-ended questions
+- Actively listen
+- Include a large sample of users
+
+**False consensus bias (The assumption that others will think the same way as you do):** Overestimate the number of people who will agree with our idea or design
+
+**Overcoming false consensus bias**
+
+- Identify and articulate your own assumptions
+- Survey large groups of people
+
+**Recency bias:** It's easiest to remember the last thing you heard in an interview, conversation, or similar setting, because it's the most recent.
+
+**Primary bias:** Remember the first participant most strongly
+
+**Overcoming recency & primacy bias bias**
+
+- Take detailed notes or recordings
+- Interview each participant in the same way
+
+**Implicit bias (Also known as "unconscious bias"):** The collection of attitudes and stereotypes we associate to people without our conscious knowledge
+
+One of the most common forms of implicit bias in UX is when we only interview people within a limited set of identity profiles, such as race, age, gender, socioeconomic status, and ability.
+
+**Overcoming implicit bias**
+
+- Reflect on our behaviors
+- Ask others to point our implicit biases
+
+**Sunk cost fallacy:** The deeper we get into a project we've invested in, the harder it is to change course
+
+For UX designers, the sunk cost fallacy comes into play when working on a design. You might have invested hours into designing a new feature, but then learned that the feature doesn't really address a user problem. It's easy to keep working on a design that you've invested time into. But ultimately, you need to focus on work that positively impacts users.
+
+**Overcoming sunk cost fallacy**
+
+- Break down your project into smaller phases
+- Outline points where you can decide whether to continue or stop
