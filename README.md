@@ -1303,3 +1303,10 @@ Why I chose this prompt from the list of the 25 prompts: To be honest, it was th
 In the past, portfolios were usually a physical collection of work like a giant briefcase full of drawings. But in today's world, it's more likely that your portfolio will be on a website, which is much easier to update and share.
 
 Keep in mind that the design of the website itself is also important. Having a well-designed website is another way to demonstrate that you understand the principles of UX design. You wouldn't want your website to have a bad user experience when you're applying for a job in UX. As you design the website, you want your portfolio to tell a story and grab the user's attention. This will help you stand out. After all, the user might be a recruiter or a client interested in offering you a job.
+
+## Portfolio Comparison Template
+
+<img src="portfolio-comparison-template-1.png" width="600">
+<img src="portfolio-comparison-template-2.png" width="600">
+<img src="portfolio-comparison-template-3.png" width="600">
+<img src="portfolio-comparison-template-4.png" width="600">
