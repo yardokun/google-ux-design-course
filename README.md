@@ -1286,7 +1286,7 @@ The research that you collect is vital to your product design process. So interv
 
 **Remain open minded.** One more tip: When you’re conducting research, you have to work hard to treat all information equally to avoid both **primacy bias**, which is remembering the first user more than others, and **recency bias**, which is most easily remembering the last thing you heard. To help combat these biases in your own research, it’s helpful to space out the scheduling of interviews, ask your colleagues to join you during interviews to provide additional opinions, and take careful notes.
 
-# Course 2 — Start the UX Design Process: Empathize, Defne, and Ideate
+# Course 2 — Start the UX Design Process: Empathize, Define, and Ideate
 
 # Module 1 — Empathizing with users and defining pain points
 
@@ -1294,4 +1294,4 @@ The research that you collect is vital to your product design process. So interv
 
 My portifolio project prompt: *"Design an app and a responsive website for parents to purchase and resell children's clothing."*
 
-Why I chose this prompt from the list of 25 prompts: To be honest, it was the only prompt from the list I actually understood 100% and felt like I can fully visualize and carry out.
+Why I chose this prompt from the list of the 25 prompts: To be honest, it was the only prompt from the list I actually understood 100% and felt like I can fully visualize and carry out.
