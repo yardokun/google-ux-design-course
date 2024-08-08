@@ -1306,7 +1306,7 @@ Keep in mind that the design of the website itself is also important. Having a w
 
 ## Portfolio Comparison Template
 
-<img src="portfolio-comparison-template-1.png" width="600">
-<img src="portfolio-comparison-template-2.png" width="600">
-<img src="portfolio-comparison-template-3.png" width="600">
-<img src="portfolio-comparison-template-4.png" width="600">
+<img src="images/portfolio-comparison-template-1.png" width="600">
+<img src="images/portfolio-comparison-template-2.png" width="600">
+<img src="images/portfolio-comparison-template-3.png" width="600">
+<img src="images/portfolio-comparison-template-4.png" width="600">
