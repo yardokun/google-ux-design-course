@@ -1367,4 +1367,4 @@ Keep in mind: Be careful not to share any proprietary information or break a non
 **Non-disclosure agreement:** A contract an employee might sign when working with a business in which they agree not to share sensitive information.
 
 8. Make your website responsive
-9. 9. Test your website
+9. Test your website
