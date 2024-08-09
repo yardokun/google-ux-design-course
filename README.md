@@ -1310,3 +1310,61 @@ Keep in mind that the design of the website itself is also important. Having a w
 <img src="images/portfolio-comparison-template-2.png" width="700">
 <img src="images/portfolio-comparison-template-3.png" width="700">
 <img src="images/portfolio-comparison-template-4.png" width="700">
+
+## Start a UX design portfolio
+
+**Website builders**
+
+Website builders offer user-friendly editing features, tutorials and even some templates so users do not need to start from scratch.
+
+These builders feature user-friendly WYSIWYG editors, offer tutorials and even some templates to start from. WYSIWYG is an acronym that means: what you see is what you get. Common website builders include Squarespace, Wix, and Webflow.
+
+**Domain:** Adress of your website.
+
+**Tips for a good portfolio:**
+
+1. Establish your personal brand
+
+**Personal brand:** The way in which your personality, unique skills and values as a designer intersect with your public persona.
+
+2. Tell a story
+3. Be concise
+
+Use minimal text to describe your work and highlight the key insights that help inform your decisions. Let your work speak for itself, if you need to explain your work in more detail, add links to other pages or PDFs.
+
+4. Keep your navigation simple and intuitive
+
+**Navigation:** The way users get from page to page on a website.
+
+5. Go beyond a template
+6. Include a diversity of projects
+7. Feature case studies
+
+**Case study:** Leads the user through your design process from the beginning to the end.
+
+Your portfolio should feature case studies, not just mockups of design ideas. A case study answers these questions:
+
+- What was the problem you were trying to solve?
+- What process did you follow?
+- Where did you succeed or fail?
+- What insights inform your design decisions along the way?
+- What was the ultimate solution, and why do you feel that solution was the best?
+
+When describing case studies, you might want to include things like:
+
+- Project's name and duration
+- Your role
+- Project goal
+- Research
+- Intended audience
+- Sketches or wireframes
+- User testing results
+- Final design
+- Conclusion about what you learned
+
+Keep in mind: Be careful not to share any proprietary information or break a nondisclosure agreement if you have one!
+
+**Non-disclosure agreement:** A contract an employee might sign when working with a business in which they agree not to share sensitive information.
+
+8. Make your website responsive
+9. 9. Test your website
