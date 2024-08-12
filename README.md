@@ -1406,3 +1406,13 @@ Empathy is at the core of everything we do. Approaching UX research with empathy
 <img src="images/keep-current-on-ux-research.png" width="600">
 
 **Keep current on UX research.** Follow researchers and join online communities to stay up-to-date on the research that affects UX designers and the users you’re designing for. Research is always changing and evolving as we understand more about human psychology. Staying current will give you an advantage in how you understand and interact with your audience. 
+
+**Screener survey:** A detailed list of questions that helps researchers determine if potential participants meet the requirements of the research study.
+
+Whether you use a screener survey or just move straight to recruiting, you should start with one important step: **determine the interview goals**. To determine the goals of the interview, ask yourself questions like the following:
+
+1. What do you want to learn from the interviews?
+2. Are there certain user problems or pain points that you need to empathize with?
+3. Are there any characteristics of users you want to interview?
+4. Why?
+5. How much information should we have to ensure we get a comprehensive and balanced set of data?
