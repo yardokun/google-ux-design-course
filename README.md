@@ -1381,7 +1381,7 @@ Keep in mind: Be careful not to share any proprietary information or break a non
 
 Empathy is at the core of everything we do. Approaching UX research with empathy makes it easier for you to solve the right problem. Like anyone else, UX designers make a lot of assumptions, but UX design is not about solving problems we *assume* users want solved. It's about solving problems that *users actually* want solved.
 
-**How to empathize with users**
+## How to empathize with users
 
 <img src="images/ask-a-lot-of-questions.png" width="600">
 
