@@ -1504,3 +1504,9 @@ Effective interview questions have five characteristics. They are:
 After you've asked all of the interview questions, give users a chance to share their final thoughts about any items discussed during the interview. Some participants might open up about their opinions and reveal insights that they didn’t share earlier.
 
 **Also, remember to thank participants once more.** You want participants to leave the interview feeling good about you, your future product, and the brand you might be representing.  
+
+**Empathy exercise:** Designers use their imaginations and perspective-taking skills to anticipate their users’ experiences so they can ask better interview questions. 
+
+**User profiles:** Short biographies that describe fictional people who stand in for real-life interview participants.
+
+Don’t confuse user profiles with user personas: User profiles are short, fictional biographies that aid with informal empathy exercises. In contrast, user personas have a more formal role in the design process: After designers interview lots of people, they distill common user characteristics into user personas, who then stand in for larger groups of similar users throughout the design process.
