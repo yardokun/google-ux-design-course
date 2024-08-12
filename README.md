@@ -1416,3 +1416,48 @@ Whether you use a screener survey or just move straight to recruiting, you shoul
 3. Are there any characteristics of users you want to interview?
 4. Why?
 5. How much information should we have to ensure we get a comprehensive and balanced set of data?
+
+As you start recruiting, aim to form a representative sample.
+
+**Representative sample:** A subset of the target population that seeks to accurately reflect the characteristics of the larger group.
+
+The participants in a representative sample should include user groups that have been commonly under-represented in previous research. This lack of representation is often the result of biases due to age, race, gender, or ability. Having a diverse pool of participants to choose from will help you create great experiences for all users.
+
+When planning for interviews, designers often:
+
+1. Create research goals to guide the interview questions they ask and the design decisions they make based on users’ responses.
+2. Determine the target audience for the product they’re designing for and list key characteristics of the users they want to interview.
+3. Write a list of interview questions so they can determine effective questions in advance and ensure consistency across interviews with different users.
+
+**Consider the research goals**
+
+Research goals guide the interview process and shape subsequent design decisions, so they need to be clear and focused on the problem the designers are trying to solve.
+
+To craft such goals, effective designers often start by considering empathetic questions like these:
+
+- Who are my users and what problems or needs is my product aiming to solve?
+- What about my users do I want to learn from the interviews?
+- Are there certain user problems or pain points I need to learn more about?
+
+These kinds of user-focused questions help designers connect with users and create effective research goals, such as:
+
+- I want to understand the processes and emotions that people experience around the problem my product is trying to solve.
+- I want to identify common user behaviors and experiences with tasks that my product is trying to address.
+- I want to understand user needs and frustrations as they relate to the product I’m designing.
+
+**Consider the participant characteristics**
+
+When recruiting and choosing participants to interview, effective designers aim for a representative sample of their target users. To get the best data, it’s important to include a group that’s manageable to interview while also being diverse enough to represent the product’s real-world audience. To define this kind of group, designers often start by considering questions like these:
+
+- Who are my end users and what are their **key characteristics?** Key characteristics include things like age, location, career, gender, disability, and so on.
+- How might these characteristics **shape users’ experiences** with or **feelings** about my product or similar products?
+
+**Consider the interview questions**
+
+Effective interview questions have five characteristics. They are:
+
+- Relevant
+- Open-ended
+- Clear
+- Neutral
+- Designed for follow-up
