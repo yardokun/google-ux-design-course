@@ -1461,3 +1461,46 @@ Effective interview questions have five characteristics. They are:
 - Clear
 - Neutral
 - Designed for follow-up
+
+### Conduct user interviews
+
+#### Prepare for the interview
+
+<img src="images/prepare-for-the-interview.png" width="600">
+
+- Script interview questions
+- Collect supplies
+- Research the users
+- Practice
+
+#### Meet the participant
+
+<img src="images/meet-the-participant.png" width="600">
+
+- First impressions matter!
+- Build rapport
+- Thank users for coming
+- Gather basic details
+
+#### Conduct the interview
+
+<img src="images/conduct-the-interview.png" width="600">
+
+- Follow interview etiquette
+- Ask open-ended questions
+
+#### Take notes
+
+<img src="images/take-notes.png" width="600">
+
+- Highlight compelling quotes
+- Document observations about participants
+- Record interviews
+
+#### End the interview
+
+<img src="images/end-the-interview.png" width="600">
+
+After you've asked all of the interview questions, give users a chance to share their final thoughts about any items discussed during the interview. Some participants might open up about their opinions and reveal insights that they didn’t share earlier.
+
+**Also, remember to thank participants once more.** You want participants to leave the interview feeling good about you, your future product, and the brand you might be representing.  
