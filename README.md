@@ -1379,4 +1379,18 @@ Keep in mind: Be careful not to share any proprietary information or break a non
 - When you have sympathy for someone, you acknowledge their feelings, but you keep yourself from experiencing those feelings.
 - Empathy goes beyond sympathy. When you empathize with someone, you share their mental and emotional experiences.
 
-Empathy is at the core of everything we do. Approaching UX research with empathy makes it easier for you to solve the right problem. Like anyone else, UX designers make a lot of assumptions, but UX design is not about solving problems we <u>assume</u> users want solved. It's about solving problems that <u>users actually</u> want solved.
+Empathy is at the core of everything we do. Approaching UX research with empathy makes it easier for you to solve the right problem. Like anyone else, UX designers make a lot of assumptions, but UX design is not about solving problems we *assume* users want solved. It's about solving problems that *users actually* want solved.
+
+**How to empathize with users**
+
+<img src="images/ask-a-lot-of-questions.png" width="600">
+
+<img src="images/become-more-observant.png" width="600">
+
+<img src="images/be-an-active-listener.png" width="600">
+
+<img src="images/request-input.png" width="600">
+
+<img src="images/have-an-open-mind.png" width="600">
+
+<img src="images/keep-current-on-ux-research.png" width="600">
