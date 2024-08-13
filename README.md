@@ -1510,3 +1510,9 @@ After you've asked all of the interview questions, give users a chance to share 
 **User profiles:** Short biographies that describe fictional people who stand in for real-life interview participants.
 
 Don’t confuse user profiles with user personas: User profiles are short, fictional biographies that aid with informal empathy exercises. In contrast, user personas have a more formal role in the design process: After designers interview lots of people, they distill common user characteristics into user personas, who then stand in for larger groups of similar users throughout the design process.
+
+## Learn about empathy maps
+
+**Empathy map:** An easily-understood chart that explains everything designers have learned about a type of user.
+
+**Aggregated empathy maps:** Represent a visualization of everything designers know about an entire user segment or group of similar users.
