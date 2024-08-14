@@ -1515,4 +1515,14 @@ Don’t confuse user profiles with user personas: User profiles are short, ficti
 
 **Empathy map:** An easily-understood chart that explains everything designers have learned about a type of user.
 
+ Empathy maps can help break down each interview into digestible pieces of information.
+
 **Aggregated empathy maps:** Represent a visualization of everything designers know about an entire user segment or group of similar users.
+
+Aggregated empathy maps are created by creating multiple one-user empathy maps, then combining the maps where users expressed similar things into a new empathy map. This helps designers identify segments, or groups of people with similar tendencies, who will use the product. The insights in aggregated empathy maps allow designers to identify themes, which helps them better empathize with the groups they are designing for.
+
+## Identify user pain points
+
+**Pain points:** Any UX issues that frustrate the user and block the user from getting what they need.
+
+<img src="images/types-of-pain-points.png" width="600">
