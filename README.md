@@ -1526,3 +1526,23 @@ Aggregated empathy maps are created by creating multiple one-user empathy maps, 
 **Pain points:** Any UX issues that frustrate the user and block the user from getting what they need.
 
 <img src="images/types-of-pain-points.png" width="600">
+
+Most pain points fall into one of four categories:
+
+**Financial pain points:**
+
+User problems related to money. If you've ever gotten lost in an online article, only to be rudely interrupted by a paywall, you know all about these.
+
+**Product pain points:**
+
+Usually quality issues related to the product. Norman Doors fall into this category.
+
+**Process pain points:**
+
+Frustrations that stop the user going from point A to point B. For example, have you ever shopped online and struggled to get the item you want to check out? That's a process pain point, and that could mean the business loses a customer.
+
+**Support pain points:**
+
+When users interact with your product, they might have questions. If they can't find answers to their questions, they won't feel supported. Customer service information that's hidden on a website falls into this category.
+
+**Brain + Heart = User Experience**
