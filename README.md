@@ -1546,3 +1546,25 @@ Frustrations that stop the user going from point A to point B. For example, have
 When users interact with your product, they might have questions. If they can't find answers to their questions, they won't feel supported. Customer service information that's hidden on a website falls into this category.
 
 **Brain + Heart = User Experience**
+
+## Create personas
+
+**Personas:** Fictional users whose goals and characteristics represent the needs of a larger group of users.
+
+Personas are key to the design process because they reflect the lifestyles of users and give your team an idea of how to meet users’ needs or challenges.
+
+**User group:** A set of people who have similar interests, goals, or concerns.
+
+**Benefits of personas:**
+
+- Build empathy
+- Tell stories
+- Stress-test designs
+
+Personas are created by conducting user research and identifying common pain points, which are UX issues that frustrate and block the user from getting what they need from a product.
+
+As you create personas, look for the most common themes in your data and group the users who personify those themes together.
+
+Generally, creating 3 to 8 personas is enough to represent the majority of a product’s user base. Think of personas as an overview of all of your research and interviews. While it’s important for personas to accurately represent users, it’s impossible to meet every one of their specific needs. Personas are also context-specific, meaning they should be focused on the behaviors and goals of users interacting with the product effectively.
+
+**Pro tip:** Get your team's opinion on the product’s users before you build personas. Then, after you build personas, review those suggestions from your team and compare them to the personas you created. Point out how the data validated or contradicted their suggestions. Everyone on your team needs to understand the personas in order to truly connect with your users.
