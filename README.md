@@ -1595,3 +1595,21 @@ User stories should be written in the following format:
 This formula keeps the problem user-centered, actionable, and clear. User stories can also serve as a “checklist” to make sure you’re addressing and solving the key problems your users might face when engaging with your product. 
 
 The best practice for user stories is to keep them short, impactful, and to the point, with a clear action and benefit.
+
+When building a new or improved product, the designer's goal is to keep all users on the happy path.
+
+**Happy path:** A user story with a happy ending.
+
+For this user, everything goes as they expect and they reach their goal without issue.
+
+**Edge case:** A rare situation or unexpected problem that interrupts a standard user experience.
+
+Good UX anticipates edge cases and reroute users back to the happy path when things don't go as planned. In edge cases, the obstacle is often beyond the user's control to fix.
+
+Let's check out some UX design pro tips for spotting and resolving potential edge cases before the product launches:
+
+**Spotting & resolving edge cases**
+
+- Create personas and user stories
+- Thoroughly review the project before launch
+- Use wireframes
