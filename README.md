@@ -1588,7 +1588,9 @@ User stories should be written in the following format:
 
 **As a type of user (who), I want to action (what) so that benefit (why).**
 
-Type of user describes *who* we are designing for. Action is *what* the user hopes will happen. And finally, benefit is *why* the user wants the action to happen.
+- **Who** is the “type of user” the product is for.
+- **What** is the “action” the user hopes will happen.
+- **Why** is the “benefit” the user wants to achieve from that action.
 
 This formula keeps the problem user-centered, actionable, and clear. User stories can also serve as a “checklist” to make sure you’re addressing and solving the key problems your users might face when engaging with your product. 
 
