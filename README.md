@@ -1584,7 +1584,7 @@ Generally, creating 3 to 8 personas is enough to represent the majority of a pro
 
 User stories should be written in the following format:
 
-<img src="user-stories-format.png" width="600">
+<img src="images/user-stories-format.png" width="600">
 
 As a type of user (who), I want to action (what) so that benefit (why).
 
