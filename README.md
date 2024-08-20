@@ -1568,3 +1568,24 @@ As you create personas, look for the most common themes in your data and group t
 Generally, creating 3 to 8 personas is enough to represent the majority of a product’s user base. Think of personas as an overview of all of your research and interviews. While it’s important for personas to accurately represent users, it’s impossible to meet every one of their specific needs. Personas are also context-specific, meaning they should be focused on the behaviors and goals of users interacting with the product effectively.
 
 **Pro tip:** Get your team's opinion on the product’s users before you build personas. Then, after you build personas, review those suggestions from your team and compare them to the personas you created. Point out how the data validated or contradicted their suggestions. Everyone on your team needs to understand the personas in order to truly connect with your users.
+
+# Module 2 — Creating user stories and user journey maps
+
+## Craft user stories
+
+**User story:** A fictional one-sentence story told from a persona's point of view to inspire and inform design decisions.
+
+**Advantages of user stories**
+
+- Prioritize design goals
+- Unite the team
+- Inspire empathetic design decisions
+- Personalize pitches to stakeholders
+
+User stories should be written in the following format:
+
+<img src="user-stories-format.png" width="600">
+
+As a type of user (who), I want to action (what) so that benefit (why).
+
+Type of user describes *who* we are designing for. Action is *what* the user hopes will happen. And finally, benefit is *why* the user wants the action to happen. This formula keeps the problem user-centered, actionable, and clear.
