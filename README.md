@@ -1586,7 +1586,7 @@ User stories should be written in the following format:
 
 <img src="images/user-stories-format.png" width="600">
 
-As a type of user (who), I want to action (what) so that benefit (why).
+**As a type of user (who), I want to action (what) so that benefit (why).**
 
 Type of user describes *who* we are designing for. Action is *what* the user hopes will happen. And finally, benefit is *why* the user wants the action to happen.
 
