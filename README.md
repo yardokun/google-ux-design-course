@@ -1638,3 +1638,7 @@ Accessibility is not just designing to include a group of users with varying abi
 Accessibility is the design of products, devices, services, or environments for people with disabilities. Designing for accessibility is about considering all users’ journeys, keeping their permanent, temporary, or situational disabilities in mind. By researching how people with disabilities interact with products like yours, you can better understand how to design for them. It’s not possible to accurately guess all the ways that a user might experience your product, which is one reason why including people with disabilities in your research is so important.
 
 <img src="images/accessibility-permanent-temporary-situational.png" width="600">
+
+**Curb cut:** The slope of the sidewalk that creates a ramp with the adjoining street.
+
+**Curb-cut effect:** A phenomenon that describes how products and policies designed for people with disabilities often end up helping everyone.
