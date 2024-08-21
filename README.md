@@ -1625,4 +1625,4 @@ Let's check out some UX design pro tips for spotting and resolving potential edg
 - Highlights new pain points
 - Identifies improvement opportunities
 
-<img src="images/user-journey-map-jamal.png" width="600">
+<img src="images/user-journey-map-jamal.png" width="700">
