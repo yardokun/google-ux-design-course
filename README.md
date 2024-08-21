@@ -1630,3 +1630,11 @@ Let's check out some UX design pro tips for spotting and resolving potential edg
 - Identifies improvement opportunities
 
 <img src="images/user-journey-map-jamal.png" width="700">
+
+## Consider accessibility
+
+Accessibility is not just designing to include a group of users with varying abilities. Instead, it extends to anyone who is experiencing a permanent, temporary, or situational disability.
+
+Accessibility is the design of products, devices, services, or environments for people with disabilities. Designing for accessibility is about considering all users’ journeys, keeping their permanent, temporary, or situational disabilities in mind. By researching how people with disabilities interact with products like yours, you can better understand how to design for them. It’s not possible to accurately guess all the ways that a user might experience your product, which is one reason why including people with disabilities in your research is so important.
+
+<img src="images/accessibility-permanent-temporary-situational.png" width="600">
