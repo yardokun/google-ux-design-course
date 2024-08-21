@@ -1569,6 +1569,8 @@ Generally, creating 3 to 8 personas is enough to represent the majority of a pro
 
 **Pro tip:** Get your team's opinion on the product’s users before you build personas. Then, after you build personas, review those suggestions from your team and compare them to the personas you created. Point out how the data validated or contradicted their suggestions. Everyone on your team needs to understand the personas in order to truly connect with your users.
 
+<img src="images/persona-neelam.png" width="600">
+
 # Module 2 — Creating user stories and user journey maps
 
 ## Craft user stories
