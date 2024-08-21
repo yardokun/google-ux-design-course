@@ -1613,3 +1613,16 @@ Let's check out some UX design pro tips for spotting and resolving potential edg
 - Create personas and user stories
 - Thoroughly review the project before launch
 - Use wireframes
+
+## Create a user journey map
+
+**User journey:** The series of experiences a user has as they achieve a specific goal.
+
+**Benefits of user journey mapping**
+
+- Helps UX designers create obstacle-free paths for users
+- Reduces impact of designer bias
+- Highlights new pain points
+- Identifies improvement opportunities
+
+<img src="images/user-journey-map-jamal.png" width="600">
