@@ -1596,6 +1596,8 @@ This formula keeps the problem user-centered, actionable, and clear. User storie
 
 The best practice for user stories is to keep them short, impactful, and to the point, with a clear action and benefit.
 
+<img src="images/user-story-neelam.png" width="700">
+
 When building a new or improved product, the designer's goal is to keep all users on the happy path.
 
 **Happy path:** A user story with a happy ending.
