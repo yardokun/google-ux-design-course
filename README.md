@@ -1658,9 +1658,24 @@ As designers move into the define phase, they will use their empathy work to ans
 
 **Problem statements**
 
+Problem statement = A clear description of the user's needs that should be addressed.
+
+- Human-centered
+- Broad enough for creative freedom
+- Narrow enough to be solved by a design
+
+- Establish goals
+- Understand constraints
+- Define deliverables
+- Create benchmarks for success
+
 With user stories and user journey maps in front of them, a designer can better identify the user needs their design must address. This is where problem statements come in: A problem statement summarizes **who** the user is, **what** they need from a design, and **why**. Here’s a simple template:
 
 **[Name of user persona]** is a **[type of user]** who needs **[type of user experience]** because **[benefits of user experience]**.
+
+Or:
+
+**[User name]** is a **[user charecteristics]** who needs **[user need]** because **[insight]**.
 
 For example, here’s the problem statement that the bakery’s designer created for Berta:
 
