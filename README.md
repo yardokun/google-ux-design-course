@@ -1642,3 +1642,7 @@ Accessibility is the design of products, devices, services, or environments for 
 **Curb cut:** The slope of the sidewalk that creates a ramp with the adjoining street.
 
 **Curb-cut effect:** A phenomenon that describes how products and policies designed for people with disabilities often end up helping everyone.
+
+## My persona's user journey map
+
+<img src="images/user-journey-map-neelam-patel.png" width="700">
