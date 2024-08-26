@@ -1682,6 +1682,8 @@ For example, here’s the problem statement that the bakery’s designer created
 
 Berta is an older person with a visual impairment. She is a long-time bakery customer who prefers ordering over the phone. She needs a website and online ordering system that are easy to use, adapt to her vision needs, and mimic the feel and flow of a friendly phone conversation. She wants to place her orders with ease and feel like she’s making a personal connection with the bakery.
 
+<img src="images/problem-statement-arnold.png" width="600">
+
 **The 5 Ws and H: who, what, when, where, why, and how**
 
 The most common framework used to create problem statements is the 5 Ws and H framework. After you define the user’s pain points, you can answer who, what, when, where, why, and how to solve the user’s problem.
