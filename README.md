@@ -1682,6 +1682,12 @@ For example, here’s the problem statement that the bakery’s designer created
 
 Berta is an older person with a visual impairment. She is a long-time bakery customer who prefers ordering over the phone. She needs a website and online ordering system that are easy to use, adapt to her vision needs, and mimic the feel and flow of a friendly phone conversation. She wants to place her orders with ease and feel like she’s making a personal connection with the bakery.
 
+**The 5 Ws and H: who, what, when, where, why, and how**
+
+The most common framework used to create problem statements is the 5 Ws and H framework. After you define the user’s pain points, you can answer who, what, when, where, why, and how to solve the user’s problem.
+
+<img src="images/the-5-ws-and-h.png" width="600">
+
 **Hypothesis statements**
 
 Hypothesis statements help designers move from defining problems toward ideating solutions. In crafting a hypothesis statement, the designer makes an educated guess about what might be the best solution to the problem they identified in their problem statement. Hypothesis statements can take many forms, but they often follow a classic if/then formula:
