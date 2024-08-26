@@ -1655,3 +1655,9 @@ As designers move into the define phase, they will use their empathy work to ans
 
 1. Which of my users’ needs or problems are the most important ones for my design to address?
 2. How might my design address these needs or problems in effective and unique ways that create value for users?
+
+**Problem statements**
+
+With user stories and user journey maps in front of them, a designer can better identify the user needs their design must address. This is where problem statements come in: A problem statement summarizes **who** the user is, **what** they need from a design, and **why**. Here’s a simple template:
+
+**[Name of user persona]** is a **[type of user]** who needs **[type of user experience]** because **[benefits of user experience]**.
