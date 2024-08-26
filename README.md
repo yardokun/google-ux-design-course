@@ -1684,6 +1684,12 @@ Berta is an older person with a visual impairment. She is a long-time bakery cus
 
 <img src="images/problem-statement-arnold.png" width="600">
 
+Problem statements provide clarity about your users’ goals and help UX designers identify constraints that prevent users from meeting those goals. Problem statements also help your team measure success.
+
+> If the problem you want to solve is industrywide, it’s crucial to understand why the market has failed to address it.
+
+(The above quote is taken from ["Are you solving the right problem?"](https://hbr.org/2012/09/are-you-solving-the-right-problem) from *Harvard Business Reveiw*.)
+
 **The 5 Ws and H: who, what, when, where, why, and how**
 
 The most common framework used to create problem statements is the 5 Ws and H framework. After you define the user’s pain points, you can answer who, what, when, where, why, and how to solve the user’s problem.
