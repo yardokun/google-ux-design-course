@@ -1648,3 +1648,10 @@ Accessibility is the design of products, devices, services, or environments for 
 <img src="images/user-journey-map-neelam.png" width="700">
 
 # Module 3 — Defining user problems
+
+## Define problem and hypothesis statements
+
+As designers move into the define phase, they will use their empathy work to answer these key questions: 
+
+1. Which of my users’ needs or problems are the most important ones for my design to address?
+2. How might my design address these needs or problems in effective and unique ways that create value for users?
