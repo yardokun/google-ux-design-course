@@ -1664,6 +1664,7 @@ Problem statement = A clear description of the user's needs that should be addre
 - Broad enough for creative freedom
 - Narrow enough to be solved by a design
 
+
 - Establish goals
 - Understand constraints
 - Define deliverables
