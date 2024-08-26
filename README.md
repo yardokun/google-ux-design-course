@@ -1646,3 +1646,5 @@ Accessibility is the design of products, devices, services, or environments for 
 ## My persona's user journey map
 
 <img src="images/user-journey-map-neelam.png" width="700">
+
+# Module 3 — Defining user problems
