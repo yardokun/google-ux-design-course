@@ -1732,6 +1732,12 @@ For example, the bakery’s website designer might build on Berta’s problem st
 
 If Berta can place online orders in a simple system that mimics the feel and flow of a friendly phone conversation, she will continue to feel a connection with the bakery.
 
+<img src="images/if-then-statement-anika.png" width="600">
+
+This template often works, but hypothesis statements don’t need to have a standard form. Sometimes an if/then statement may sound unnatural, so designers may reword their if/then statements to create statements that are more flexible.
+
+Regardless of the form they take, effective hypothesis statements give designers an easy way to communicate their best educated guesses about which actions will best address users’ needs and achieve the outcomes users desire.
+
 You might encounter situations where you have multiple hypothesis statements for one problem statement. That’s okay! There will always be multiple solutions for the problems that users are facing. Your job as a UX designer is to use your creativity and problem-solving skills to decide which solutions work best for the unique users you’re designing for.
 
 Hypothesis statements help you narrow down your research insights into goals for your product, so you can stay focused on the wants and needs of your users.
