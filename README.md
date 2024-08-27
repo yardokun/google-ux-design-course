@@ -1670,13 +1670,15 @@ Problem statement = A clear description of the user's needs that should be addre
 - Define deliverables
 - Create benchmarks for success
 
-With user stories and user journey maps in front of them, a designer can better identify the user needs their design must address. This is where problem statements come in: A problem statement summarizes **who** the user is, **what** they need from a design, and **why**. Here’s a simple template:
+With user stories and user journey maps in front of them, a designer can better identify the user needs their design must address. This is where problem statements come in: A problem statement summarizes **who** the user is, **what** they need from a design, and **why**. The reason for the need (the “why”) should be an actionable insight that the designer can address in their design. 
+
+ Here’s a simple template:
 
 **[Name of user persona]** is a **[type of user]** who needs **[type of user experience]** because **[benefits of user experience]**.
 
 Or:
 
-**[User name]** is a **[user charecteristics]** who needs **[user need]** because **[insight]**.
+**[User name]** is a/an **[user charecteristics]** who needs **[user need]** because **[insight]**.
 
 For example, here’s the problem statement that the bakery’s designer created for Berta:
 
@@ -1733,6 +1735,8 @@ If Berta can place online orders in a simple system that mimics the feel and flo
 You might encounter situations where you have multiple hypothesis statements for one problem statement. That’s okay! There will always be multiple solutions for the problems that users are facing. Your job as a UX designer is to use your creativity and problem-solving skills to decide which solutions work best for the unique users you’re designing for.
 
 Hypothesis statements help you narrow down your research insights into goals for your product, so you can stay focused on the wants and needs of your users.
+
+A strong hypothesis statement communicates a practical design solution to the need in the problem statement.
 
 **Value propositions**
 
