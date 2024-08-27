@@ -1716,9 +1716,23 @@ Hypothesis statements help designers move from defining problems toward ideating
 
 If **[user]** can perform **[action]**, then they will achieve **[benefit]**.
 
+Or:
+
+If **[action]** then **[outcome]**.
+
+Or:
+
+**We believe that** [solution] **for** [user] **will** [benefit].
+
+If / then statements focus directly on the needs of users. On the other hand, we believe statements take the perspective of your team into account, while remaining empathetic to the needs of users.
+
 For example, the bakery’s website designer might build on Berta’s problem statement to create a hypothesis like this:
 
 If Berta can place online orders in a simple system that mimics the feel and flow of a friendly phone conversation, she will continue to feel a connection with the bakery.
+
+You might encounter situations where you have multiple hypothesis statements for one problem statement. That’s okay! There will always be multiple solutions for the problems that users are facing. Your job as a UX designer is to use your creativity and problem-solving skills to decide which solutions work best for the unique users you’re designing for.
+
+Hypothesis statements help you narrow down your research insights into goals for your product, so you can stay focused on the wants and needs of your users.
 
 **Value propositions**
 
@@ -1738,3 +1752,5 @@ The bakery’s new website offers a streamlined online ordering system that mimi
 In the define phase of Design Thinking, designers build on their empathy work to identify specific user problems and hypothesize possible solutions. These problems and solutions should emerge from a rich understanding of who users are and how they experience the product, including the specific tasks they encounter and the feelings they bring to those tasks. 
 
 By developing concise and compelling problem statements, hypothesis statements, and value propositions, designers are in a better position to start ideating solutions that will actually meet users’ needs. They’re also in a better position to convince stakeholders by showing how their solutions align with real users’ experiences and address real users’ pain points. 
+
+
