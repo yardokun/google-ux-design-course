@@ -1684,7 +1684,7 @@ For example, here’s the problem statement that the bakery’s designer created
 
 Berta is an older person with a visual impairment. She is a long-time bakery customer who prefers ordering over the phone. She needs a website and online ordering system that are easy to use, adapt to her vision needs, and mimic the feel and flow of a friendly phone conversation. She wants to place her orders with ease and feel like she’s making a personal connection with the bakery.
 
-<img src="images/problem-statement-arnold.png" width="600">
+<img src="images/problem-statement-anika.png" width="600">
 
 Problem statements provide clarity about your users’ goals and help UX designers identify constraints that prevent users from meeting those goals. Problem statements also help your team measure success.
 
