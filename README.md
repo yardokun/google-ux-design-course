@@ -1765,6 +1765,6 @@ By developing concise and compelling problem statements, hypothesis statements, 
 
 ## My persona's problem and hypothesis statements
 
-<img src="images/if-then-statement-neelam-patel.png" width="600">
-
 <img src="images/problem-statement-neelam-patel.png" width="600">
+
+<img src="images/if-then-statement-neelam-patel.png" width="600">
