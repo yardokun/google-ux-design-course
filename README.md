@@ -1763,4 +1763,8 @@ In the define phase of Design Thinking, designers build on their empathy work to
 
 By developing concise and compelling problem statements, hypothesis statements, and value propositions, designers are in a better position to start ideating solutions that will actually meet users’ needs. They’re also in a better position to convince stakeholders by showing how their solutions align with real users’ experiences and address real users’ pain points. 
 
+## My persona's problem and hypothesis statements
 
+<img src="images/if-then-statement-neelam-patel.png" width="600">
+
+<img src="images/problem-statement-neelam-patel.png" width="600">
