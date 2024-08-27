@@ -1767,4 +1767,8 @@ By developing concise and compelling problem statements, hypothesis statements, 
 
 <img src="images/problem-statement-neelam-patel.png" width="600">
 
+**Neelam Patel** is an **experienced teacher and a busy mother** who needs **an easy and sustainable way to buy and resell her child’s clothing** because **she struggles to find well-organized, eco-friendly options and lacks time to browse multiple platforms**.
+
 <img src="images/if-then-statement-neelam-patel.png" width="600">
+
+If **Neelam uses the app to buy and resell her child’s clothing**, **then she can save time and money while contributing to a more sustainable lifestyle**.
