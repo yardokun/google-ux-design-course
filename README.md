@@ -1828,3 +1828,77 @@ Can you identify the biggest pain point in this example? A common theme in some 
 **Key takeaways**
 
 One of the most important things to know about value propositions is that they need to be short, clear, and to the point. Users want to be able to easily identify exactly how your product will meet their unique needs and what sets your product apart in the market. Sometimes users won’t know what they need until you explain it to them. That’s the real heart of product design innovation.
+
+## Proposition for my portfolio project
+
+**1. Describe your product's features and benefits.**
+
+- Sell and buy second-hand-clothing
+- Recieve notifications
+- Share location of seller
+- In-app-camera
+- Preview-option of posts
+- Search-and-filter options
+- Manage profile
+- Chat with seller/buyer
+- Follow other profiles
+- Eco-friendly
+- Eco-friendly delivery options
+- Screen-reader technology
+- Accessible
+- Personalized recommendations
+- Easy-to-use app design
+- Free to use
+- Earn money when selling
+- Streamlined onboarding
+- Quick access feature
+- Example suggestions for description
+- Category guidance
+- Pricing tips
+- Step-by-step guidance
+- Confirmation and edit option
+- Post-submission editing
+- Buyer verification and trust indicators
+- Secure messaging system
+- Flexible delivery options
+- Transaction support and guidance
+- In-app confirmation and tracking
+- Post-sale analytics and insights
+- Encouraging positive feedback
+- Review system
+
+**2. Explain the value of the product.**
+
+- Accessible
+ - Recieve notifications
+ - Share location of seller
+ - In-app-camera
+ - Preview-option of posts
+ - Search-and-filter options
+ - Screen-reader technology
+ - Personalized recommendations
+ - Easy-to-use app design
+ - Step-by-step guidance
+ - Confirmation and edit option
+ - Post-submission editing
+
+- Eco-friendly
+ - Sell and buy second-hand-clothing
+ - Eco-friendly delivery options
+
+- Time-saving
+ - Streamlined onboarding
+ - Quick access feature
+ - Example suggestions for description
+ - Category guidance
+ - In-app confirmation and tracking
+ - Review system
+
+- Profitable
+ - Free to use
+ - Earn money when selling
+ - Pricing tips
+ - Buyer verification and trust indicators
+ - Flexible delivery options
+ - Transaction support and guidance
+ - Post-sale analytics and insights
