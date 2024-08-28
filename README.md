@@ -1902,3 +1902,61 @@ One of the most important things to know about value propositions is that they n
   - Flexible delivery options
   - Transaction support and guidance
   - Post-sale analytics and insights
+
+ **3. Connect these features and benefits with the needs of your users.**
+
+Neelam - Experienced Teacher and Busy Mother
+
+- Biggest Pain Point: Lack of time to browse multiple platforms for sustainable options.
+- Best Matching Feature: Search-and-filter options
+ 
+This feature allows Neelam to quickly find well-organized, eco-friendly clothing, directly addressing her need for saving time and finding sustainable options.
+
+Elliot - Busy Professional and Student
+
+- Biggest Pain Point: Limited time and desire for sustainable gift options.
+- Best Matching Feature: Personalized recommendations
+ 
+This feature provides Elliot with quick access to relevant, sustainable children’s clothing for gifts, saving him time and aligning with his eco-friendly values.
+
+Carlos - Small Business Owner with Limited Time
+
+- Biggest Pain Point: Need for a reliable platform to sell quickly and declutter without much hassle.
+- Best Matching Feature: Buyer verification and trust indicators
+ 
+This feature ensures that transactions are safe and reliable, which is crucial for Carlos to sell items quickly and confidently without complications.
+
+Reena - Paramedic with a Demanding Schedule and Dyslexia
+
+- Biggest Pain Point: Needs an intuitive platform that’s easy to use despite dyslexia.
+- Best Matching Feature: Screen-reader technology
+ 
+This feature allows Reena to navigate the app seamlessly and accessibly, directly addressing her need for an easy-to-use platform without stress or complex text.
+
+Alfie - Busy Accountant Shopping for Nieces and Nephews
+
+- Biggest Pain Point: Needs a quick way to find sustainable kids’ clothing for gifts without interrupting work.
+- Best Matching Feature: Quick access feature
+
+This feature allows Alfie to swiftly navigate the app and make purchases without taking much time, directly addressing his need for speed and efficiency.
+
+Ahmed - Retired Grandparent with Plenty of Free Time
+
+- Biggest Pain Point: Wants a user-friendly way to find and gift clothing to grandchildren.
+- Best Matching Feature: Easy-to-use app design
+
+A user-friendly interface will make it easier for Ahmed to navigate the app without complications, making the experience of finding and gifting items enjoyable.
+
+Fathima - Environmental Advocate with Flexible Work Hours
+
+- Biggest Pain Point: Needs a platform that emphasizes sustainable and eco-friendly options.
+- Best Matching Feature: Eco-friendly delivery options
+
+Supports her environmental values by ensuring the entire process, including delivery, aligns with sustainable practices.
+
+Max - Part-Time Retail Worker with a Mix of Free Time and Work Commitments
+
+- Biggest Pain Point: Needs an app that is easy to use for both buying and reselling.
+- Best Matching Feature: Post-submission editing
+
+Allows Max to easily manage listings without needing to invest much time, fitting well into his varied schedule.
