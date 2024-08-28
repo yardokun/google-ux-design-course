@@ -1960,3 +1960,48 @@ Max - Part-time retail worker with a mix of free time and work commitments
 - Best Matching Feature: Post-submission editing
 
 Allows Max to easily manage listings without needing to invest much time, fitting well into his varied schedule.
+
+## Explore the influence of psychology in UX design
+
+**The human factor:** Describes the range of variables humans bring to their product interactions.
+
+**Common human factors that inform design**
+
+- Impatience
+- Limited memory
+- Needing analogies
+- Limited concentration
+- Changes in need
+- Needing motivation
+- Prejudices
+- Fears
+- Making errors
+- Misjudgment
+
+Here are psychological concepts that can help you design with the human factor in mind:
+
+**Mental models:** Internal maps that allow humans to predict how something will work.
+
+When you face a door, your mental model tells you that the door can be opened. Once the door is opened, you'll be able to leave the room. The process of opening the door is expected to end with you being able to leave the room. A mental model breaks when you can't go through the open door because, for example, there's a solid brick wall behind it.
+
+**Feedback loops:** The outcome a user gets at the end of a process.
+
+For example, if you enter a dark room and flip a light switch, the room will either brighten, or it won't. Positive feedback would be the light coming on. While negative feedback would be nothing happening. The more positive feedback a user gets when completing the action, the more they will expect the outcome to be positive. The same is true with negative feedback. If your user takes an action, it's important that they get some kind of confirmation that the action worked or that it didn't.
+
+In spite of all the limitations the human factors puts on UX designers, it also gives us opportunities to create even better user experiences. Sometimes a well-known brand will revert their product packaging back to the original design in order to connect to a user sense of nostalgia. For example, a potato chip company might reissue its classic bag design from the '80s, or a century-old soda company might create replicas of bottles they used decades ago. In these cases, the designer uses nostalgia to connect with users, something they couldn't use to connect with robots. When UX designers turn limitations into opportunities, the human factor isn't so limiting after all.
+
+**Some psychological phenomena that can be especially useful to UX designers:**
+
+**Von Restorff effect (Isolation effect:** When multiple, similar objects are present, the one that differs from the rest is most likely to be remembered.
+
+In UX design, this is why the call-to-action buttons look different from the rest of the buttons on a site or app; because we want them to stand out.
+
+**Serial position effect:** When people are given a list of items, they are more likely to remember the first few and the last few, while the items in the middle tend to blur.
+
+This is why most applications and websites position the most important user actions toward the far right or far left of a top navigation bar.
+
+**Hick's Law:** The more options a user has, the longer it takes for them to make a decision.
+
+In other words, if the number of choices increases, the time to make a decision increases in proportion. As a UXer, you might think that giving your user a lot of choices enhances their experience. But Hick's law tells us we may be making their decisions harder.
+
+It's important for UX designers to use these different psychological principles in an ethical way. You don't want to exploit the user. You only want to encourage them. You don't want to overpower the user. You want to empower them. With a little psychology, creativity, and empathy, what starts as a limitation can end up as a benefit.
