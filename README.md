@@ -1870,35 +1870,35 @@ One of the most important things to know about value propositions is that they n
 **2. Explain the value of the product.**
 
 - Accessible
- - Recieve notifications
- - Share location of seller
- - In-app-camera
- - Preview-option of posts
- - Search-and-filter options
- - Screen-reader technology
- - Personalized recommendations
- - Easy-to-use app design
- - Step-by-step guidance
- - Confirmation and edit option
- - Post-submission editing
+  - Recieve notifications
+  - Share location of seller
+  - In-app-camera
+  - Preview-option of posts
+  - Search-and-filter options
+  - Screen-reader technology
+  - Personalized recommendations
+  - Easy-to-use app design
+  - Step-by-step guidance
+  - Confirmation and edit option
+  - Post-submission editing
 
 - Eco-friendly
- - Sell and buy second-hand-clothing
- - Eco-friendly delivery options
+  - Sell and buy second-hand-clothing
+  - Eco-friendly delivery options
 
 - Time-saving
- - Streamlined onboarding
- - Quick access feature
- - Example suggestions for description
- - Category guidance
- - In-app confirmation and tracking
- - Review system
+  - Streamlined onboarding
+  - Quick access feature
+  - Example suggestions for description
+  - Category guidance
+  - In-app confirmation and tracking
+  - Review system
 
 - Profitable
- - Free to use
- - Earn money when selling
- - Pricing tips
- - Buyer verification and trust indicators
- - Flexible delivery options
- - Transaction support and guidance
- - Post-sale analytics and insights
+  - Free to use
+  - Earn money when selling
+  - Pricing tips
+  - Buyer verification and trust indicators
+  - Flexible delivery options
+  - Transaction support and guidance
+  - Post-sale analytics and insights
