@@ -1772,3 +1772,59 @@ By developing concise and compelling problem statements, hypothesis statements, 
 <img src="images/if-then-statement-neelam-patel.png" width="600">
 
 If **Neelam uses the app to buy and resell her child’s clothing**, **then she can save time and money while contributing to a more sustainable lifestyle**.
+
+## Create a value proposition
+
+**Value proposition:** The reason wy a consumer should use a product or service
+
+Everything that your product has to offer might seem obvious to you, but you have to put yourself in the mind of your users. Users don’t know your product or understand its value yet. That’s where value propositions come in. 
+
+To start, you need to do some research in order to answer these two questions:
+
+- **What does your product do?** Clearly explain the offering that your product provides users.
+- **Why should the user care?** Describe how your product addresses users’ pain points.
+
+Once you’ve answered these questions, you can follow a series of steps to focus in on your product’s unique value proposition.
+
+**Step 1. Describe your product’s features and benefits.** Create a list of all the great features and benefits of your product, big and small. Don’t hold back; list everything that comes to mind and then narrow it down later.
+
+<img src="images/value-prop-step-1.png" width="600">
+
+**Step 2. Explain the value of the product.** Anything that you identify as a value proposition needs to be beneficial to your users. In this example, for the dog walker app, there were four categories of product values that were identified during user interviews: accessible, professional experience of the dog walkers, cost, and reliability. The giant list of features and benefits from step one is sorted into those four categories.
+
+<img src="images/value-prop-step-2.png" width="600">
+
+There were a few features and benefits from the original list that didn't fit into these four categories and didn't add real “value” for the users:
+
+- Monthly organic goodies and new products for your pets
+- Exclusively for dog walking (no other kinds of pets)
+- Rating system for walkers
+- Training tips
+
+These features and benefits were not sorted into the four categories and were instead set to the side.
+
+**Step 3. Connect these features and benefits with the needs of your users.** The goal is to identify what’s truly valuable to the user and not just a cool feature that users didn’t ask for. To determine value, take the personas you’ve developed and pair each persona with a value proposition that meets their biggest pain point.
+
+<img src="images/value-prop-step-3.png" width="600">
+
+**Step 4. Review your official value proposition list.** You’ve narrowed your list down of lots of benefits and features by matching them with actual user needs. Now it’s time to review the list of value propositions your product offers. For the dog walker app, here are the value propositions that matched with the personas that were developed earlier:
+
+- Thorough training for walkers
+- Upgrade dog walkers to dog nanny for set, scheduled walks
+- Geo-tracking of walkers
+- Calendar booking
+- Late-notice cancellation fees
+- Convenient lockers that hold your house keys
+- Easy-to-use app design
+
+And there you have it, your list of value propositions! However, some of these features and benefits are also offered by your competitors. So how do you know what makes your product stand out from the competition? Identify your app’s unique value proposition. This means reviewing the list of value propositions that match to your personas and removing those that your competition also offers.
+
+One way to check out your product’s competitors is to read reviews. Sort the reviews from lowest to highest, and closely examine what reviewers are sharing about your competition. Here are some reviews about a competitor dog walking app:
+
+<img src="images/value-prop-step-4.png" width="600">
+
+Can you identify the biggest pain point in this example? A common theme in some of the reviews is the need for thorough, in-person training for the dog walkers, to ensure that the dog walkers know how to do their jobs well. Some of the reviews also call out the need for dog walkers to be reliable. No other dog walking app is meeting this need, so that’s the unique value proposition our app can provide!
+
+**Key takeaways**
+
+One of the most important things to know about value propositions is that they need to be short, clear, and to the point. Users want to be able to easily identify exactly how your product will meet their unique needs and what sets your product apart in the market. Sometimes users won’t know what they need until you explain it to them. That’s the real heart of product design innovation.
