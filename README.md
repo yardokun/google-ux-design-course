@@ -2005,3 +2005,7 @@ This is why most applications and websites position the most important user acti
 In other words, if the number of choices increases, the time to make a decision increases in proportion. As a UXer, you might think that giving your user a lot of choices enhances their experience. But Hick's law tells us we may be making their decisions harder.
 
 It's important for UX designers to use these different psychological principles in an ethical way. You don't want to exploit the user. You only want to encourage them. You don't want to overpower the user. You want to empower them. With a little psychology, creativity, and empathy, what starts as a limitation can end up as a benefit.
+
+# Module 4 — Ideating design solutions
+
+## Understand design ideation
