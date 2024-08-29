@@ -2051,3 +2051,13 @@ UX designers often work closely with marketing and branding teams. That's becaus
 **Design can help facilitate a conversation between a business and its users.**
 
 ## Use research to inform ideation
+
+Earlier in the course, you used four tools—empathy maps, personas, user stories, and user journey maps—to help gain a deeper understanding of users’ needs. All of these tools informed the creation of a problem statement and will guide your ideation process moving forward. As a quick refresher:
+
+- **Empathy maps** explore users’ four main motivations: what the user says, thinks, does, and feels. The insights gathered from empathy maps help you come up with ideas for solutions that address users’ real problems.
+- **Personas** place the users who you’re designing for front and center. By creating detailed user profiles, you can clearly envision potential users that you’d design for.
+- **User stories** determine which user needs are the most critical to address with your designs. This direction will help focus your ideation.
+- **User journeys** help you come up with ideas for designs that truly support the users’ needs and solve their problems.
+- A **problem statement** is a clear description of the user’s need that should be addressed. The problem statement you created in the last course will guide the focus of your ideation. 
+
+User research provides insights into how users behave, how users experience or think about a product, and more. Whether you conduct the user research yourself or with the help of a designated UX researcher, your research findings will help you understand how to design your product based on what your users really need. As UX designers, we always keep users top of mind, so using findings from research can go a long way in informing the ideation process.
