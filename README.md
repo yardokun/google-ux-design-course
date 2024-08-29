@@ -2039,3 +2039,13 @@ When reviewing the ideas, it's important to have a reason for picking the idea y
 - Set a time limit
 - Assemble a diverse team
 - Think outside the box
+
+**Why should we come up with a lot of ideas?**
+
+- List of ideas is narrowed based on constraints
+- Need to focus on equity
+- Let users test the ideas
+
+UX designers often work closely with marketing and branding teams. That's because branding has a big effect on how users experience a product. **Two major components of branding are voice and the tone.**
+
+**Design can help facilitate a conversation between a business and its users.**
