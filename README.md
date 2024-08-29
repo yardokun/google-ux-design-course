@@ -2009,3 +2009,33 @@ It's important for UX designers to use these different psychological principles 
 # Module 4 — Ideating design solutions
 
 ## Understand design ideation
+
+**Ideation:** The process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them.
+
+**Ideation in the real world**
+
+- Brainstorm out loud
+- Document all ideas
+- Focus on quantity
+- Do not allow evaluation
+- Gather a diverse team
+- Question the obvious
+- Evaluate the ideas
+
+When reviewing the ideas, it's important to have a reason for picking the idea you move forward with. There are a few common ways to evaluate your ideas:
+
+- Feasible: Technically possible to build
+- Desirable: Best at solving the user problem
+- Viable: Financially beneficial for the business
+
+**Preparing for ideation**
+
+- Empathize with your user
+- Define the problem
+
+**Ideating effectively**
+
+- Establish a creative environment
+- Set a time limit
+- Assemble a diverse team
+- Think outside the box
