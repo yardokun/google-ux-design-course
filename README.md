@@ -2049,3 +2049,5 @@ When reviewing the ideas, it's important to have a reason for picking the idea y
 UX designers often work closely with marketing and branding teams. That's because branding has a big effect on how users experience a product. **Two major components of branding are voice and the tone.**
 
 **Design can help facilitate a conversation between a business and its users.**
+
+## Use research to inform ideation
