@@ -2061,3 +2061,5 @@ Earlier in the course, you used four tools—empathy maps, personas, user storie
 - A **problem statement** is a clear description of the user’s need that should be addressed. The problem statement you created in the last course will guide the focus of your ideation. 
 
 User research provides insights into how users behave, how users experience or think about a product, and more. Whether you conduct the user research yourself or with the help of a designated UX researcher, your research findings will help you understand how to design your product based on what your users really need. As UX designers, we always keep users top of mind, so using findings from research can go a long way in informing the ideation process.
+
+## Build goal statements
