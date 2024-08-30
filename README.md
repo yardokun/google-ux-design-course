@@ -2125,3 +2125,10 @@ Have a similar set of offerings, but focus on a different audience than you, or 
 - Save time, money, and energy
 - Understand competitor product life cycles
 - Inspire design iterations based on competitor successes and failures
+
+**Limitations of competitive audits**
+
+- Stifle creativity
+- Depend on how well you interpret the findings
+- Not all designs work in all use cases
+- Need to be done regularly
