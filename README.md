@@ -2087,3 +2087,7 @@ At this point, it's time to transition from the problem that users are facing to
 - Outlines *success* in measurable terms.
 
 Our [product] will let users [perform specific actions] which will affect [describe who the action will affect] by [describe how the action will positively affect them]. We will measure effectiveness by [describe how you will measure the impact].
+
+<img src="images/goal-statement-neelam.png" width="600">
+
+Our second-hand clothing app will let users easily buy and resell children’s clothing, which will affect busy parents by helping them quickly find and exchange eco-friendly items without wasting time. We will measure effectiveness by tracking user satisfaction and successful transactions.
