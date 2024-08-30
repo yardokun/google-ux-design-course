@@ -2091,3 +2091,35 @@ Our [product] will let users [perform specific actions] which will affect [descr
 <img src="images/goal-statement-neelam.png" width="600">
 
 Our second-hand clothing app will let users easily buy and resell children’s clothing, which will affect busy parents by helping them quickly find and exchange eco-friendly items without wasting time. We will measure effectiveness by tracking user satisfaction and successful transactions.
+
+## Conduct competitive audits
+
+**Competitive audit:** An overview of your competitor's strenghts and weaknesses.
+
+Analyzing the brands and products of competitors, or the companies who offer similar products as you do, can give you a well-rounded foundation of knowledge about the market your product will enter. That knowledge will carry into your designs and help you create a product that’s helpful and unique for users. As a UX designer, you’ll likely partner with folks from other teams, like marketing or product management, to run a competitive audit.
+
+<img src="images/competitive-audit-your-product-vs-theirs.png" width="600">
+
+**What you can learn from a competitive audit**
+
+- Identifying your key competitors
+- Reviewing the products that your competitors offer
+- Understanding how your competitors position themselves in the market
+- Examining what your competition does well and what they could do better
+- Considering how your competitors talk about themselves
+
+**Direct competitors**
+
+Have offerings, meaning products, services, or features, that are similar to your product and focus on the same audience.
+
+**Indirect competitors**
+
+Have a similar set of offerings, but focus on a different audience than you, or they have a different set of offerings and focus on the same audience as you.
+
+**Benefits to competitive audits**
+
+- Inform your design process
+- Solve usability problems
+- Reveal gaps in the market
+- Provide reliable evidence
+- Save time, money, and energy
