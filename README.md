@@ -2063,3 +2063,27 @@ Earlier in the course, you used four tools—empathy maps, personas, user storie
 User research provides insights into how users behave, how users experience or think about a product, and more. Whether you conduct the user research yourself or with the help of a designated UX researcher, your research findings will help you understand how to design your product based on what your users really need. As UX designers, we always keep users top of mind, so using findings from research can go a long way in informing the ideation process.
 
 ## Build goal statements
+
+**Product goal statement:** One or two sentences that describe a product and its benefits for the user.
+
+**Goal statement**
+
+- *What* the product lets users do
+- *Who* the action affects
+- *Why* the action positively affects users
+- *How* the effectiveness of the product is measured
+
+Your goal statement needs to address the problem that you identified earlier in the problem statement.
+
+If you didn't create a problem statement, you can still get the answers you need to create a goal statement. You can pull the who, what and why into your goal statement from various other parts of your research and work to date. You can find the *who* using the information from your persona. The user story can provide the *what*. And the empathy map and user journey maps will help you answer the *why*.
+
+At this point, it's time to transition from the problem that users are facing to the solution we can design to meet their needs. This can be a single, specific goal or a greater idea that you’ve chosen to be the focus of your design.
+
+**A strong goal statement:**
+
+- Describes *a specific action* users can take or what the product will do.
+- Defines *who* the action will affect.
+- States *the positive impact* of the action or why the product solves the user's need.
+- Outlines *success* in measurable terms.
+
+Our [product] will let users [perform specific actions] which will affect [describe who the action will affect] by [describe how the action will positively affect them]. We will measure effectiveness by [describe how you will measure the impact].
