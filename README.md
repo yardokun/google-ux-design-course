@@ -2098,8 +2098,6 @@ Our second-hand clothing app will let users easily buy and resell children’s c
 
 Analyzing the brands and products of competitors, or the companies who offer similar products as you do, can give you a well-rounded foundation of knowledge about the market your product will enter. That knowledge will carry into your designs and help you create a product that’s helpful and unique for users. As a UX designer, you’ll likely partner with folks from other teams, like marketing or product management, to run a competitive audit.
 
-<img src="images/competitive-audit-your-product-vs-theirs.png" width="600">
-
 **What you can learn from a competitive audit**
 
 - Identifying your key competitors
@@ -2107,6 +2105,8 @@ Analyzing the brands and products of competitors, or the companies who offer sim
 - Understanding how your competitors position themselves in the market
 - Examining what your competition does well and what they could do better
 - Considering how your competitors talk about themselves
+
+<img src="images/competitive-audit-your-product-vs-theirs.png" width="600">
 
 **Direct competitors**
 
@@ -2123,3 +2123,5 @@ Have a similar set of offerings, but focus on a different audience than you, or 
 - Reveal gaps in the market
 - Provide reliable evidence
 - Save time, money, and energy
+- Understand competitor product life cycles
+- Inspire design iterations based on competitor successes and failures
