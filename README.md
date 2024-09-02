@@ -2132,3 +2132,12 @@ Have a similar set of offerings, but focus on a different audience than you, or 
 - Depend on how well you interpret the findings
 - Not all designs work in all use cases
 - Need to be done regularly
+
+**Competitive audit steps**
+
+1. Outline the goals
+2. Create a spreadsheet with a list of your competitors
+3. Call out the specific aspects you want to compare
+4. Research each company
+5. Analyze findings
+6. Summorize findings in a report
