@@ -2141,3 +2141,12 @@ Have a similar set of offerings, but focus on a different audience than you, or 
 4. Research each company
 5. Analyze findings
 6. Summorize findings in a report
+   - What are your audit goals?
+   - Who are your key competitors?
+   - What are the type and quality of the competitors’ products?
+   - How do the competitors position themselves in the market?
+   - How do the competitors talk about themselves?
+   - What are the competitors’ strengths?
+   - What are the competitors’ weaknesses?
+   - What gaps are there in the competitors’ products?
+   - What opportunities are there for your product to stand out?
