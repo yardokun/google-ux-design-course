@@ -2150,3 +2150,16 @@ Have a similar set of offerings, but focus on a different audience than you, or 
    - What are the competitors’ weaknesses?
    - What gaps are there in the competitors’ products?
    - What opportunities are there for your product to stand out?
+
+## My competitive audit
+
+<img src="competitive-audit-spreadsheet-1.png" width="600">
+<img src="competitive-audit-spreadsheet-2.png" width="600">
+<img src="competitive-audit-spreadsheet-3.png" width="600">
+<img src="competitive-audit-spreadsheet-4.png" width="600">
+
+## My competitive audit report
+
+<img src="competitive-audit-report-1.png" width="600">
+<img src="competitive-audit-report-2.png" width="600">
+<img src="competitive-audit-report-3.png" width="600">
