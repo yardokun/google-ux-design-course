@@ -2155,7 +2155,7 @@ Have a similar set of offerings, but focus on a different audience than you, or 
 
 <img src="images/competitive-audit-spreadsheet-1.png" width="900">
 <img src="images/competitive-audit-spreadsheet-2.png" width="600">
-<img src="images/competitive-audit-spreadsheet-3.png" width="800">
+<img src="images/competitive-audit-spreadsheet-3.png" width="900">
 <img src="images/competitive-audit-spreadsheet-4.png" width="800">
 
 ## My competitive audit report
