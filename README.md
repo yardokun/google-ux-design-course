@@ -2255,3 +2255,15 @@ Think of ways to compare this user experience to another experience.
 Think of how the problem might be solved by a resource that isn’t mentioned in the problem statement. 
 
 *How might facial recognition software help manage concert entry?*
+
+**Best practices for thinking of HMWs**
+
+- **Be broad.** A good HMW should allow for multiple solutions. For example, one of the earlier questions, *How might we make keeping track of tickets fun and competitive?*, can be answered in countless ways.
+
+- **But don’t be too broad.** You want your HMWs to be comprehensive, but narrow enough to keep your solutions focused. An example of a HMW question that is too broad is: *How might we make ticketing better?* This HMW doesn’t provide clear enough guidance to come up with ideas for solutions. 
+
+- **Make multiple drafts.** It’s okay to change your HMW questions after you’ve written them. If you find that your HMW doesn’t help you think of any useful solutions, change it up!
+
+- **Be creative.** HMWs are meant to be imaginative and even fun. You can use the list of tips from Stanford above to think of new, creative ways to frame your questions.
+
+- **Write as many HMWs as you can.** The more HMWs you have, the more solutions you can come up with. If you can make more than one question out of the frameworks you’ve learned, then go for it!
