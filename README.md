@@ -2296,7 +2296,7 @@ Now that you know how to do a Rapid Sketching exercise, check out some tips to m
 **Benefits of Rapid Sketching**
 
 
-<img src="images/benefits-of-rapid-sketching.png" width="700">
+<img src="images/benefits-of-rapid-sketching.png" width="600">
 
 Rapid Sketching is an exciting design ideation exercise that generates a lot of ideas in a small amount of time. If you have five people do the exercise at the same time, you’ll have 40 potential solutions after only eight minutes. That’s a lot of ideas!
 
