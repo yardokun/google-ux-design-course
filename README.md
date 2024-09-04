@@ -2163,3 +2163,95 @@ Have a similar set of offerings, but focus on a different audience than you, or 
 <img src="images/competitive-audit-report-1.png" width="600">
 <img src="images/competitive-audit-report-2.png" width="600">
 <img src="images/competitive-audit-report-3.png" width="600">
+
+## Brainstorm design ideas by sketching
+
+**"How Might We" (HMW)** is a design thinking activity used to translate problems into opportunities for design. HMW gets your creativity flowing and encourages you to think about the problem from different perspectives. This new vantage point helps you create a wide variety of solutions to the user problem you’re trying to address. During a HMW exercise, you’d create a list of questions that start with “How might we” and use those to spark ideas for solutions.
+
+**How Might We?**
+
+- "How" - Explore a bunch of ideas
+- "Might" - Our ideas are possible solutions, not the only solution
+- "We" - Collaborative effort
+
+The question should be specific in describing the needs of the user, but still have room for innovation in the final product. This means the question is broad enough to leave space for solutions that might not be evident yet.
+
+**Ways to create How Might We phrases**
+
+To create good HMW questions, you need a well-defined problem statement. From there, you can reframe this problem statement into questions that will help you come up with ideas to solve the problem.
+
+Consider this problem that a user, Darren, faces: Darren is a concert goer who needs to keep track of their concert ticket because they need the ticket when they go through security.
+
+Useful tips from the Stanford University design school:
+
+<img src="images/HMW-arm-up-the-good.png" width="600">
+
+**Arm up the good**
+
+Think of how you might use any positives in the problem as a solution. 
+
+*How might we make keeping track of tickets a fun competition among friends?*
+
+<img src="images/HMW-explore-the-opposite.png" width="600">
+
+**Explore the opposite**
+
+Think of how you’d solve the opposite of the problem you’ve outlined. 
+
+*How might we create a way to lose tickets?*
+
+<img src="images/HMW-change-a-status-quo.png" width="600">
+
+**Change a status quo**
+
+Think of ways to completely change the process. 
+
+*How might we make a non-paper concert ticket?*
+
+<img src="images/HMW-break-the-point-of-view-into-pieces.png" width="600">
+
+**Break the point-of-view into pieces**
+
+This is especially helpful for long, complex problems. 
+
+*How might we keep the customer’s ticket from getting lost? How might we make a lost ticket easier for the security team to handle?*
+
+<img src="images/HMW-remove-the-bad.png" width="600">
+
+**Remove the bad**
+
+Think of how to remove the negative part of the problem entirely. 
+
+*How might we make a way for concert goers to enter a venue without needing a ticket?*
+
+<img src="images/HMW-go-after-the-adjective.png" width="600">
+
+**Go after the adjective**
+
+Take any negative adjectives and try to turn them into positives. 
+
+*How might we make the entry to a concert venue less stressful for ticket holders?*
+
+<img src="images/HMW-question-an-assumption.png" width="600">
+
+**Question an assumption**
+
+Remove or change any processes that you assume have to be in place. 
+
+*How might we remove the security check process at a concert?*
+
+<img src="images/HMW-create-an-analogy.png" width="600">
+
+**Create an analogy using the established need or context**
+
+Think of ways to compare this user experience to another experience.  
+
+*How might we make going through security like playing a video game?*
+
+<img src="images/HMW-identify-unexpected-resources.png" width="600">
+
+**Identify unexpected resources that can provide assistance**
+
+Think of how the problem might be solved by a resource that isn’t mentioned in the problem statement. 
+
+*How might facial recognition software help manage concert entry?*
