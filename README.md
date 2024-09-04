@@ -2303,3 +2303,5 @@ Rapid Sketching is an exciting design ideation exercise that generates a lot of 
 Rapid Sketching also forces you to think outside the box because you have to come up with many ideas in a short timeframe, without judging them. This means that you will have lots of unique, nontraditional solutions to consider.
 
 This exercise is meant to be fun and fast-paced, so enjoy yourself. Let your creativity flow without judgment, and come up with some awesome ideas!
+
+<img src="images/My-first-rapid-sketch.png" width="600">
