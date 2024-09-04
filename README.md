@@ -2305,3 +2305,7 @@ Rapid Sketching also forces you to think outside the box because you have to com
 This exercise is meant to be fun and fast-paced, so enjoy yourself. Let your creativity flow without judgment, and come up with some awesome ideas!
 
 <img src="images/My-first-rapid-sketch.png" width="600">
+
+You now understand how we use the How Might We and Crazy Eights exercises to come up with more ideas. It might seem odd that both these exercises are part of the same ideation process. After all, one method is practical and the other is more creative. With the How Might We exercise, you carefully considered a very specific user problem to create a list of questions, and with the Crazy Eights exercise, you sketched solutions to that problem with no limitations and no thoughts to practicality. Solving a problem requires both pragmatic and creative thinking.
+
+New blockers may come up during the ideation phase. If they do, designers should consider if further research and data collection is needed. In order to create a product that addresses user needs and wants, designers may need more information in order to resolve them.
