@@ -2277,7 +2277,7 @@ Rapid Sketching is a great way to get ideas flowing for any design problem you n
 - Set your timer to eight minutes. You’ll have one minute to sketch each design idea.
 - Let the ideas flow. Draw any and every solution that comes to your mind. If you have more than eight ideas, feel free to repeat the exercise.
 
-<img src="images/rapid-sketching-example.png" width="600">
+<img src="images/rapid-sketching-example.png" width="700">
 
 Just like that, you’ve got eight potential design solutions! Keep in mind that this exercise is often done in a group setting. Each person draws eight sketches on their own, then the group comes together to decide on their favorite ideas. Each person shares their top two or three ideas with the whole group, or each person may vote on their favorite sketches from across the team. The best ideas chosen will usually be elaborated on through more detailed sketches.
 
@@ -2296,7 +2296,7 @@ Now that you know how to do a Rapid Sketching exercise, check out some tips to m
 **Benefits of Rapid Sketching**
 
 
-<img src="images/benefits-of-rapid-sketching.png" width="600">
+<img src="images/benefits-of-rapid-sketching.png" width="700">
 
 Rapid Sketching is an exciting design ideation exercise that generates a lot of ideas in a small amount of time. If you have five people do the exercise at the same time, you’ll have 40 potential solutions after only eight minutes. That’s a lot of ideas!
 
