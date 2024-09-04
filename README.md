@@ -2184,7 +2184,7 @@ Consider this problem that a user, Darren, faces: Darren is a concert goer who n
 
 Useful tips from the Stanford University design school:
 
-<img src="images/HMW-arm-up-the-good.png" width="600">
+<img src="images/HMW-arm-up-the-good.png" width="700">
 
 **Arm up the good**
 
@@ -2192,7 +2192,7 @@ Think of how you might use any positives in the problem as a solution.
 
 *How might we make keeping track of tickets a fun competition among friends?*
 
-<img src="images/HMW-explore-the-opposite.png" width="600">
+<img src="images/HMW-explore-the-opposite.png" width="700">
 
 **Explore the opposite**
 
@@ -2200,7 +2200,7 @@ Think of how you’d solve the opposite of the problem you’ve outlined.
 
 *How might we create a way to lose tickets?*
 
-<img src="images/HMW-change-a-status-quo.png" width="600">
+<img src="images/HMW-change-a-status-quo.png" width="700">
 
 **Change a status quo**
 
@@ -2208,7 +2208,7 @@ Think of ways to completely change the process.
 
 *How might we make a non-paper concert ticket?*
 
-<img src="images/HMW-break-the-point-of-view-into-pieces.png" width="600">
+<img src="images/HMW-break-the-point-of-view-into-pieces.png" width="700">
 
 **Break the point-of-view into pieces**
 
@@ -2216,7 +2216,7 @@ This is especially helpful for long, complex problems.
 
 *How might we keep the customer’s ticket from getting lost? How might we make a lost ticket easier for the security team to handle?*
 
-<img src="images/HMW-remove-the-bad.png" width="600">
+<img src="images/HMW-remove-the-bad.png" width="700">
 
 **Remove the bad**
 
@@ -2224,7 +2224,7 @@ Think of how to remove the negative part of the problem entirely.
 
 *How might we make a way for concert goers to enter a venue without needing a ticket?*
 
-<img src="images/HMW-go-after-the-adjective.png" width="600">
+<img src="images/HMW-go-after-the-adjective.png" width="700">
 
 **Go after the adjective**
 
@@ -2232,7 +2232,7 @@ Take any negative adjectives and try to turn them into positives.
 
 *How might we make the entry to a concert venue less stressful for ticket holders?*
 
-<img src="images/HMW-question-an-assumption.png" width="600">
+<img src="images/HMW-question-an-assumption.png" width="700">
 
 **Question an assumption**
 
@@ -2240,7 +2240,7 @@ Remove or change any processes that you assume have to be in place.
 
 *How might we remove the security check process at a concert?*
 
-<img src="images/HMW-create-an-analogy.png" width="600">
+<img src="images/HMW-create-an-analogy.png" width="700">
 
 **Create an analogy using the established need or context**
 
@@ -2248,7 +2248,7 @@ Think of ways to compare this user experience to another experience.
 
 *How might we make going through security like playing a video game?*
 
-<img src="images/HMW-identify-unexpected-resources.png" width="600">
+<img src="images/HMW-identify-unexpected-resources.png" width="700">
 
 **Identify unexpected resources that can provide assistance**
 
